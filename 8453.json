@@ -121,5 +121,35 @@
     "assetGroup": "WBTC",
     "currencyId": "Wrapped BTC::WBTC",
     "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+  },
+  "native": {
+    "chainId": "8453",
+    "decimals": 18,
+    "name": "Ether",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
+    "assetGroup": "ETH",
+    "currencyId": "Ether::ETH",
+    "tags": [
+      "native",
+      "coingecko",
+      "debridge",
+      "biconomy-gas-token",
+      "AAVE_V3",
+      "ZEROLEND",
+      "GRANARY",
+      "YLDR",
+      "POLTER",
+      "XLEND",
+      "COMPOUND_V3_USDC",
+      "COMPOUND_V3_WETH",
+      "COMPOUND_V3_USDBC",
+      "COMPOUND_V3_AERO",
+      "VENUS",
+      "MOONCAKE",
+      "wrapped:0x4200000000000000000000000000000000000006"
+    ],
+    "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
   }
 }

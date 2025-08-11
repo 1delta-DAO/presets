@@ -73,5 +73,24 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/core/0xeAB3aC417c4d6dF6b143346a46fEe1B847B50296.jpg",
     "assetGroup": "ETH",
     "currencyId": "Wrapped Ether::WETH"
+  },
+  "native": {
+    "chainId": "1116",
+    "decimals": 18,
+    "name": "Core Blockchain Native Token",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "CORE",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/core.webp",
+    "assetGroup": "CORE",
+    "currencyId": "Core Blockchain Native Token::CORE",
+    "tags": [
+      "native",
+      "coingecko",
+      "COLEND",
+      "COLEND_LSTBTC",
+      "AVALON",
+      "wrapped:0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f"
+    ],
+    "props": { "isNative": true, "wrapped": "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f" }
   }
 }

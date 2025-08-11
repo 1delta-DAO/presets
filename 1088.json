@@ -53,5 +53,27 @@
     "assetGroup": "DAI",
     "currencyId": "Dai Stablecoin::DAI",
     "tags": ["AAVE_V3"]
+  },
+  "native": {
+    "chainId": "1088",
+    "decimals": 18,
+    "name": "Metis",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "METIS",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/metis.webp",
+    "assetGroup": "METIS",
+    "currencyId": "Metis::METIS",
+    "tags": [
+      "native",
+      "coingecko",
+      "debridge",
+      "wrapped:0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481",
+      "erc20:0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000"
+    ],
+    "props": {
+      "isNative": true,
+      "erc20": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
+      "wrapped": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481"
+    }
   }
 }

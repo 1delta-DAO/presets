@@ -1,0 +1,14 @@
+{
+  "native": {
+    "chainId": "314",
+    "decimals": 18,
+    "name": "filecoin",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "FIL",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/fil.webp",
+    "assetGroup": "FIL",
+    "currencyId": "filecoin::FIL",
+    "tags": ["native", "wrapped:0x60e1773636cf5e4a227d9ac24f20feca034ee25a"],
+    "props": { "isNative": true, "wrapped": "0x60e1773636cf5e4a227d9ac24f20feca034ee25a" }
+  }
+}

@@ -20,5 +20,24 @@
     "assetGroup": "ETH",
     "currencyId": "Wrapped Ether::WETH",
     "tags": ["openocean", "coingecko", "debridge", "GRANARY"]
+  },
+  "native": {
+    "chainId": "250",
+    "decimals": 18,
+    "name": "Fantom",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "FTM",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/ftm.webp",
+    "assetGroup": "FTM",
+    "currencyId": "Fantom::FTM",
+    "tags": [
+      "native",
+      "openocean",
+      "coingecko",
+      "debridge",
+      "GRANARY",
+      "wrapped:0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83"
+    ],
+    "props": { "isNative": true, "wrapped": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83" }
   }
 }

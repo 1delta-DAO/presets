@@ -177,5 +177,34 @@
     "assetGroup": "USDE",
     "currencyId": "USDe::USDe",
     "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+  },
+  "native": {
+    "chainId": "42161",
+    "decimals": 18,
+    "name": "Ether",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
+    "assetGroup": "ETH",
+    "currencyId": "Ether::ETH",
+    "tags": [
+      "native",
+      "openocean",
+      "coingecko",
+      "debridge",
+      "biconomy-gas-token",
+      "AAVE_V3",
+      "AVALON",
+      "GRANARY",
+      "YLDR",
+      "COMPOUND_V3_USDC",
+      "COMPOUND_V3_WETH",
+      "COMPOUND_V3_USDT",
+      "VENUS",
+      "VENUS_ETH",
+      "COMPOUND_V3_USDCE",
+      "wrapped:0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+    ],
+    "props": { "isNative": true, "wrapped": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1" }
   }
 }

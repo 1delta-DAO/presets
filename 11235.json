@@ -28,5 +28,17 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x0CE35b0D42608Ca54Eb7bcc8044f7087C18E7717.jpg",
     "assetGroup": "Circle USD from Noble::USDC",
     "currencyId": "Circle USD from Noble::USDC"
+  },
+  "native": {
+    "chainId": "11235",
+    "decimals": 18,
+    "name": "Islamic Coin",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ISLM",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/islm.webp",
+    "assetGroup": "ISLM",
+    "currencyId": "Islamic Coin::ISLM",
+    "tags": ["native", "wrapped:0xec8cc083787c6e5218d86f9ff5f28d4cc377ac54"],
+    "props": { "isNative": true, "wrapped": "0xec8cc083787c6e5218d86f9ff5f28d4cc377ac54" }
   }
 }

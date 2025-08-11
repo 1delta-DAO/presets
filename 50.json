@@ -48,5 +48,17 @@
     "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/50/0xc57F0eb99363e747D637B17BBdB4e1AB85e60631.png",
     "assetGroup": "USDT",
     "currencyId": "Tether USD::USDT"
+  },
+  "native": {
+    "chainId": "50",
+    "decimals": 18,
+    "name": "XinFin",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "XDC",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xdc.webp",
+    "assetGroup": "Wrapped XDC::WXDC",
+    "currencyId": "XinFin::XDC",
+    "tags": ["native", "coingecko", "wrapped:0x951857744785e80e2de051c32ee7b25f9c458c42"],
+    "props": { "isNative": true, "wrapped": "0x951857744785e80e2de051c32ee7b25f9c458c42" }
   }
 }

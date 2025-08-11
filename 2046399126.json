@@ -48,5 +48,16 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0x1c0491E3396AD6a35f061c62387a95d7218FC515.jpg",
     "assetGroup": "USDT",
     "currencyId": "Tether USD::USDT"
+  },
+  "native": {
+    "chainId": "2046399126",
+    "address": "0x0000000000000000000000000000000000000000",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/sfuel.webp",
+    "currencyId": "sFUEL::sFUEL",
+    "tags": ["native"],
+    "props": { "isNative": true },
+    "name": "sFUEL",
+    "symbol": "sFUEL",
+    "decimals": 18
   }
 }

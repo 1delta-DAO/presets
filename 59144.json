@@ -86,5 +86,29 @@
       "MOONCAKE"
     ],
     "props": { "wnative": true }
+  },
+  "native": {
+    "chainId": "59144",
+    "decimals": 18,
+    "name": "Ether",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
+    "assetGroup": "ETH",
+    "currencyId": "Ether::ETH",
+    "tags": [
+      "native",
+      "coingecko",
+      "debridge",
+      "biconomy-gas-token",
+      "AAVE_V3",
+      "ZEROLEND",
+      "ZEROLEND_CROAK",
+      "ZEROLEND_FOXY",
+      "GRANARY",
+      "MOONCAKE",
+      "wrapped:0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f"
+    ],
+    "props": { "isNative": true, "wrapped": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f" }
   }
 }

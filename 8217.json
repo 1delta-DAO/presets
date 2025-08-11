@@ -64,5 +64,17 @@
     "assetGroup": "WBTC",
     "currencyId": "Wrapped BTC (Synapse)::WBTC",
     "tags": ["KLAP"]
+  },
+  "native": {
+    "chainId": "8217",
+    "decimals": 18,
+    "name": "KAIA",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "KAIA",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/kaia.webp",
+    "assetGroup": "KAIA",
+    "currencyId": "KAIA::KAIA",
+    "tags": ["native", "RHOMBUS", "AVALON", "AVALON_SKAIA", "wrapped:0x19aac5f612f524b754ca7e7c41cbfa2e981a4432"],
+    "props": { "isNative": true, "wrapped": "0x19aac5f612f524b754ca7e7c41cbfa2e981a4432" }
   }
 }

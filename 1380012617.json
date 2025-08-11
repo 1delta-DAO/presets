@@ -38,5 +38,16 @@
     "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdt.svg",
     "assetGroup": "USDT",
     "currencyId": "Tether USD::USDT"
+  },
+  "native": {
+    "chainId": "1380012617",
+    "address": "0x0000000000000000000000000000000000000000",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
+    "currencyId": "Ethereum::ETH",
+    "tags": ["native"],
+    "props": { "isNative": true },
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
   }
 }

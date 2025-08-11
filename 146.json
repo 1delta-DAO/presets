@@ -75,5 +75,29 @@
     "assetGroup": "WBTC",
     "currencyId": "Wrapped BTC::WBTC",
     "tags": ["debridge", "biconomy-gas-token", "coingecko"]
+  },
+  "native": {
+    "chainId": "146",
+    "decimals": 18,
+    "name": "Sonic",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "S",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/s.webp",
+    "assetGroup": "S",
+    "currencyId": "Sonic::S",
+    "tags": [
+      "native",
+      "coingecko",
+      "biconomy-gas-token",
+      "debridge",
+      "AAVE_V3",
+      "AVALON_BEETS",
+      "POLTER",
+      "MAGSIN",
+      "ENCLABS",
+      "ENCLABS_LST",
+      "wrapped:0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38"
+    ],
+    "props": { "isNative": true, "wrapped": "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38" }
   }
 }

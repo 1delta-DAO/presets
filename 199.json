@@ -28,5 +28,17 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x9B5F27f6ea9bBD753ce3793a07CbA3C74644330d.jpg",
     "assetGroup": "USDT",
     "currencyId": "Tether USD BSC::USDT.b"
+  },
+  "native": {
+    "chainId": "199",
+    "decimals": 18,
+    "name": "BitTorrent",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "BTT",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/btt.webp",
+    "assetGroup": "Wrapped BitTorrent::WBTT",
+    "currencyId": "BitTorrent::BTT",
+    "tags": ["native", "wrapped:0x23181f21dea5936e24163ffaba4ea3b316b57f3c"],
+    "props": { "isNative": true, "wrapped": "0x23181f21dea5936e24163ffaba4ea3b316b57f3c" }
   }
 }

@@ -18,5 +18,16 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
     "assetGroup": "USDT",
     "currencyId": "Tether::USDT"
+  },
+  "native": {
+    "chainId": "23294",
+    "address": "0x0000000000000000000000000000000000000000",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/rose.webp",
+    "currencyId": "Sapphire Rose::ROSE",
+    "tags": ["native"],
+    "props": { "isNative": true },
+    "name": "Sapphire Rose",
+    "symbol": "ROSE",
+    "decimals": 18
   }
 }

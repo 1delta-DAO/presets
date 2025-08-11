@@ -39,5 +39,16 @@
     "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf6a011fac307f55cd4ba8e43b8b93f39808ddaa9.png",
     "assetGroup": "DAI",
     "currencyId": "Dai Stablecoin::DAI"
+  },
+  "native": {
+    "chainId": "252",
+    "address": "0x0000000000000000000000000000000000000000",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/frxeth.webp",
+    "currencyId": "Frax Ether::frxETH",
+    "tags": ["native"],
+    "props": { "isNative": true },
+    "name": "Frax Ether",
+    "symbol": "frxETH",
+    "decimals": 18
   }
 }

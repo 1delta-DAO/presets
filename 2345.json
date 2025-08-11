@@ -8,5 +8,16 @@
     "assetGroup": "ETH",
     "currencyId": "WETH::WETH",
     "tags": ["AVALON"]
+  },
+  "native": {
+    "chainId": "2345",
+    "address": "0x0000000000000000000000000000000000000000",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/btc.webp",
+    "currencyId": "Bitcoin::BTC",
+    "tags": ["native"],
+    "props": { "isNative": true },
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
   }
 }

@@ -41,5 +41,17 @@
     "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/dai.svg",
     "assetGroup": "DAI",
     "currencyId": "Dai Stablecoin::DAI"
+  },
+  "native": {
+    "chainId": "41923",
+    "decimals": 18,
+    "name": "EDU",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "EDU",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/edu.webp",
+    "assetGroup": "Wrapped EDU::WEDU",
+    "currencyId": "EDU::EDU",
+    "tags": ["native", "coingecko", "wrapped:0xd02e8c38a8e3db71f8b2ae30b8186d7874934e12"],
+    "props": { "isNative": true, "wrapped": "0xd02e8c38a8e3db71f8b2ae30b8186d7874934e12" }
   }
 }

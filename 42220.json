@@ -63,5 +63,28 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0xE4fE50cdD716522A56204352f00AA110F731932d.jpg",
     "assetGroup": "DAI",
     "currencyId": "Dai Stablecoin::DAI"
+  },
+  "native": {
+    "chainId": "42220",
+    "decimals": 18,
+    "name": "CELO",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "CELO",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/celo.webp",
+    "assetGroup": "Celo (as ERC20)::CELO",
+    "currencyId": "CELO::CELO",
+    "tags": [
+      "native",
+      "coingecko",
+      "AAVE_V3",
+      "MOOLA",
+      "wrapped:0x471ece3750da237f93b8e339c536989b8978a438",
+      "erc20:0x471ece3750da237f93b8e339c536989b8978a438"
+    ],
+    "props": {
+      "isNative": true,
+      "erc20": "0x471ece3750da237f93b8e339c536989b8978a438",
+      "wrapped": "0x471ece3750da237f93b8e339c536989b8978a438"
+    }
   }
 }

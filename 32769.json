@@ -20,5 +20,16 @@
     "assetGroup": "USDC",
     "currencyId": "USDC::USDC",
     "tags": ["debridge"]
+  },
+  "native": {
+    "chainId": "32769",
+    "address": "0x0000000000000000000000000000000000000000",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/zil.webp",
+    "currencyId": "Zilliqa::ZIL",
+    "tags": ["native"],
+    "props": { "isNative": true },
+    "name": "Zilliqa",
+    "symbol": "ZIL",
+    "decimals": 18
   }
 }

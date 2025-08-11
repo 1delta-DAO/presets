@@ -31,5 +31,17 @@
     "assetGroup": "USDC",
     "currencyId": "USD Coin::USDC",
     "tags": ["debridge", "LENDOS"]
+  },
+  "native": {
+    "chainId": "245022934",
+    "decimals": 18,
+    "name": "Neon",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "NEON",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/neon.webp",
+    "assetGroup": "Wrapped Neon::WNEON",
+    "currencyId": "Neon::NEON",
+    "tags": ["native", "debridge", "LENDOS", "wrapped:0x202c35e517fa803b537565c40f0a6965d7204609"],
+    "props": { "isNative": true, "wrapped": "0x202c35e517fa803b537565c40f0a6965d7204609" }
   }
 }

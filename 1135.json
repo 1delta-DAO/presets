@@ -28,5 +28,16 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
     "assetGroup": "USDT",
     "currencyId": "USDT::USDT"
+  },
+  "native": {
+    "chainId": "1135",
+    "address": "0x0000000000000000000000000000000000000000",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
+    "currencyId": "Ether::ETH",
+    "tags": ["native"],
+    "props": { "isNative": true },
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
   }
 }

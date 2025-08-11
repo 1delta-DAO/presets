@@ -31,5 +31,17 @@
     "assetGroup": "USDC",
     "currencyId": "USDC::USDC",
     "tags": ["coingecko"]
+  },
+  "native": {
+    "chainId": "1329",
+    "decimals": 18,
+    "name": "Sei",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "SEI",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/sei.webp",
+    "assetGroup": "SEI",
+    "currencyId": "Sei::SEI",
+    "tags": ["native", "coingecko", "biconomy-gas-token", "wrapped:0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7"],
+    "props": { "isNative": true, "wrapped": "0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7" }
   }
 }

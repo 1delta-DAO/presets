@@ -83,5 +83,33 @@
     "currencyId": "USD Coin::USDC",
     "tags": ["debridge", "biconomy-gas-token", "AAVE_V3", "YLDR"],
     "props": { "permit": { "type": 1, "version": "2" } }
+  },
+  "native": {
+    "chainId": "137",
+    "decimals": 18,
+    "name": "POL",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "POL",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/pol.webp",
+    "assetGroup": "POL",
+    "currencyId": "POL::POL",
+    "tags": [
+      "native",
+      "openocean",
+      "debridge",
+      "biconomy-gas-token",
+      "AAVE_V3",
+      "AAVE_V2",
+      "YLDR",
+      "COMPOUND_V3_USDT",
+      "COMPOUND_V3_USDCE",
+      "wrapped:0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      "erc20:0x0000000000000000000000000000000000001010"
+    ],
+    "props": {
+      "isNative": true,
+      "erc20": "0x0000000000000000000000000000000000001010",
+      "wrapped": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+    }
   }
 }

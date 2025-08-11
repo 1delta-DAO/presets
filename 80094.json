@@ -42,5 +42,24 @@
     "assetGroup": "USDT",
     "currencyId": "Tether USD::USDT",
     "tags": ["coingecko", "biconomy-gas-token", "ZEROLEND"]
+  },
+  "native": {
+    "chainId": "80094",
+    "decimals": 18,
+    "name": "BERA Token",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "BERA",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/bera.webp",
+    "assetGroup": "BERA",
+    "currencyId": "BERA Token::BERA",
+    "tags": [
+      "native",
+      "coingecko",
+      "biconomy-gas-token",
+      "debridge",
+      "ZEROLEND",
+      "wrapped:0x6969696969696969696969696969696969696969"
+    ],
+    "props": { "isNative": true, "wrapped": "0x6969696969696969696969696969696969696969" }
   }
 }

@@ -136,5 +136,32 @@
     "assetGroup": "WBTC",
     "currencyId": "Wrapped BTC::WBTC",
     "tags": ["biconomy-gas-token", "AVALON_WBTC"]
+  },
+  "native": {
+    "chainId": "56",
+    "decimals": 18,
+    "name": "BNB Chain Native Token",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "BNB",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/bnb.webp",
+    "assetGroup": "BNB",
+    "currencyId": "BNB Chain Native Token::BNB",
+    "tags": [
+      "native",
+      "openocean",
+      "coingecko",
+      "debridge",
+      "biconomy-gas-token",
+      "AAVE_V3",
+      "AVALON_WBTC",
+      "AVALON_LISTA",
+      "KINZA",
+      "GRANARY",
+      "VENUS_BNB",
+      "AVALON_SOLVBTC",
+      "VALAS",
+      "wrapped:0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+    ],
+    "props": { "isNative": true, "wrapped": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c" }
   }
 }

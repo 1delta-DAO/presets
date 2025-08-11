@@ -42,5 +42,16 @@
     "assetGroup": "USDC",
     "currencyId": "USD Coin::USDC",
     "tags": ["coingecko", "AAVE_V3", "ZEROLEND", "VENUS"]
+  },
+  "native": {
+    "chainId": "324",
+    "address": "0x0000000000000000000000000000000000000000",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
+    "currencyId": "Ether::ETH",
+    "tags": ["native"],
+    "props": { "isNative": true },
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
   }
 }

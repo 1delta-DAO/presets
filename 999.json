@@ -8,5 +8,26 @@
     "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x0555e30da8f98308edb960aa94c0db47230d2b9c/d3c52e7c7449afa8bd4fad1c93f50d93.png",
     "assetGroup": "WBTC",
     "currencyId": "Wrapped BTC::WBTC"
+  },
+  "native": {
+    "chainId": "999",
+    "decimals": 18,
+    "name": "Hyperliquid",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "HYPE",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/hype.webp",
+    "assetGroup": "HYPE",
+    "currencyId": "Hyperliquid::HYPE",
+    "tags": [
+      "native",
+      "coingecko",
+      "biconomy-gas-token",
+      "debridge",
+      "HYPERLEND",
+      "HYPURRFI",
+      "HYPERYIELD",
+      "wrapped:0x5555555555555555555555555555555555555555"
+    ],
+    "props": { "isNative": true, "wrapped": "0x5555555555555555555555555555555555555555" }
   }
 }

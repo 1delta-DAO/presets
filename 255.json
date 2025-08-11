@@ -43,5 +43,17 @@
     "assetGroup": "USDC",
     "currencyId": "USD Coin::USDC",
     "tags": ["coingecko"]
+  },
+  "native": {
+    "chainId": "255",
+    "decimals": 18,
+    "name": "Ether",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
+    "assetGroup": "ETH",
+    "currencyId": "Ether::ETH",
+    "tags": ["native", "coingecko", "wrapped:0x4200000000000000000000000000000000000001"],
+    "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000001" }
   }
 }

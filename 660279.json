@@ -28,5 +28,17 @@
     "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/eth.svg",
     "assetGroup": "ETH",
     "currencyId": "Wrapped Ether::WETH"
+  },
+  "native": {
+    "chainId": "660279",
+    "decimals": 18,
+    "name": "Xai",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "XAI",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xai.webp",
+    "assetGroup": "Wrapped XAI::wXAI",
+    "currencyId": "Xai::XAI",
+    "tags": ["native", "wrapped:0x3fb787101dc6be47cfe18aeee15404dcc842e6af"],
+    "props": { "isNative": true, "wrapped": "0x3fb787101dc6be47cfe18aeee15404dcc842e6af" }
   }
 }

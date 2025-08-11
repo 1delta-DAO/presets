@@ -50,5 +50,17 @@
     "logoURI": "https://tokenlist.glowswap.io/images/glow/0xD48d3A551757ac47655fCe25BDE1B0B6b1Cb2a5A.png",
     "assetGroup": "ETH",
     "currencyId": "Wrapped Ether::WETH"
+  },
+  "native": {
+    "chainId": "223",
+    "decimals": 18,
+    "name": "Bitcoin",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "BTC",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/btc.webp",
+    "assetGroup": "WBTC",
+    "currencyId": "Bitcoin::BTC",
+    "tags": ["native", "wrapped:0x4200000000000000000000000000000000000006"],
+    "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
   }
 }

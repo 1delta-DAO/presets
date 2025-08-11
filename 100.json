@@ -75,5 +75,27 @@
     "assetGroup": "COW",
     "currencyId": "CoW Protocol::COW",
     "tags": ["coingecko", "biconomy-gas-token"]
+  },
+  "native": {
+    "chainId": "100",
+    "decimals": 18,
+    "name": "xDAI",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "XDAI",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xdai.webp",
+    "assetGroup": "XDAI",
+    "currencyId": "xDAI::XDAI",
+    "tags": [
+      "native",
+      "openocean",
+      "coingecko",
+      "biconomy-gas-token",
+      "AAVE_V3",
+      "SPARK",
+      "RMM",
+      "AGAVE",
+      "wrapped:0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
+    ],
+    "props": { "isNative": true, "wrapped": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d" }
   }
 }

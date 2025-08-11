@@ -65,5 +65,17 @@
     "assetGroup": "DAI",
     "currencyId": "Dai Stablecoin::DAI",
     "tags": ["openocean", "coingecko"]
+  },
+  "native": {
+    "chainId": "1313161554",
+    "decimals": 18,
+    "name": "Ether",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
+    "assetGroup": "ETH",
+    "currencyId": "Ether::ETH",
+    "tags": ["native", "openocean", "coingecko", "wrapped:0xc9bdeed33cd01541e1eed10f90519d2c06fe3feb"],
+    "props": { "isNative": true, "wrapped": "0xc9bdeed33cd01541e1eed10f90519d2c06fe3feb" }
   }
 }

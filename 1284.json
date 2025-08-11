@@ -28,5 +28,17 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
     "assetGroup": "USDT",
     "currencyId": "USDT::USDT"
+  },
+  "native": {
+    "chainId": "1284",
+    "decimals": 18,
+    "name": "Glimmer",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "GLMR",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/glmr.webp",
+    "assetGroup": "WGLMR",
+    "currencyId": "Glimmer::GLMR",
+    "tags": ["native", "coingecko", "wrapped:0xacc15dc74880c9944775448304b263d191c6077f"],
+    "props": { "isNative": true, "wrapped": "0xacc15dc74880c9944775448304b263d191c6077f" }
   }
 }

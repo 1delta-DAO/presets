@@ -131,5 +131,32 @@
       "COMPOUND_V3_USDE",
       "INIT"
     ]
+  },
+  "native": {
+    "chainId": "5000",
+    "decimals": 18,
+    "name": "Mantle",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "MNT",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/mnt.webp",
+    "assetGroup": "MNT",
+    "currencyId": "Mantle::MNT",
+    "tags": [
+      "native",
+      "coingecko",
+      "biconomy-gas-token",
+      "debridge",
+      "LENDLE",
+      "AURELIUS",
+      "KINZA",
+      "INIT",
+      "wrapped:0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
+      "erc20:0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000"
+    ],
+    "props": {
+      "isNative": true,
+      "erc20": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
+      "wrapped": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8"
+    }
   }
 }
