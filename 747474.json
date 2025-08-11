@@ -1,5 +1,5 @@
 {
-  "eth": {
+  "vbeth": {
     "chainId": "747474",
     "decimals": 18,
     "name": "Vault Bridge ETH",
@@ -46,6 +46,17 @@
     "currencyId": "Vault Bridge WBTC::vbWBTC",
     "tags": ["btc", "coingecko", "vault bridge", "bridged"],
     "props": { "permit": { "type": 1, "version": "1" } }
+  },
+  "eth": {
+    "chainId": "747474",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x4200000000000000000000000000000000000006",
+    "symbol": "WETH",
+    "logoURI": "https://static.debank.com/image/katana_token/logo_url/0x4200000000000000000000000000000000000006/61844453e63cf81301f845d7864236f6.png",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["wnative"]
   },
   "native": {
     "chainId": "747474",
