@@ -1,13 +1,31 @@
 {
+  "stable": {
+    "chainId": "999",
+    "decimals": 6,
+    "name": "USDT0",
+    "address": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "symbol": "USDT0",
+    "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183",
+    "assetGroup": "USDT0::USDT0",
+    "currencyId": "USDT0::USDT0",
+    "tags": ["coingecko", "biconomy-gas-token", "HYPERLEND", "HYPURRFI"]
+  },
   "btc": {
     "chainId": "999",
     "decimals": 8,
-    "name": "Wrapped BTC",
-    "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
-    "symbol": "WBTC",
-    "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x0555e30da8f98308edb960aa94c0db47230d2b9c/d3c52e7c7449afa8bd4fad1c93f50d93.png",
-    "assetGroup": "WBTC",
-    "currencyId": "Wrapped BTC::WBTC"
+    "name": "Unit Bitcoin",
+    "address": "0x9fdbda0a5e284c32744d2f17ee5c74b284993463",
+    "symbol": "uBTC",
+    "logoURI": "https://assets.coingecko.com/coins/images/55066/thumb/ubtc.jpg?1743580113",
+    "assetGroup": "Unit Bitcoin::uBTC",
+    "currencyId": "Unit Bitcoin::uBTC",
+    "tags": [
+      "coingecko",
+      "biconomy-gas-token",
+      "debridge",
+      "HYPERLEND",
+      "HYPURRFI"
+    ]
   },
   "native": {
     "chainId": "999",
@@ -28,6 +46,58 @@
       "HYPERYIELD",
       "wrapped:0x5555555555555555555555555555555555555555"
     ],
-    "props": { "isNative": true, "wrapped": "0x5555555555555555555555555555555555555555" }
+    "props": {
+      "isNative": true,
+      "wrapped": "0x5555555555555555555555555555555555555555"
+    }
+  },
+  "whype": {
+    "chainId": "999",
+    "decimals": 18,
+    "name": "Wrapped HYPE",
+    "address": "0x5555555555555555555555555555555555555555",
+    "symbol": "WHYPE",
+    "logoURI": "https://assets.coingecko.com/coins/images/54469/thumb/_UP3jBsi_400x400.jpg?1739905920",
+    "assetGroup": "HYPE",
+    "currencyId": "Wrapped HYPE::WHYPE",
+    "tags": [
+      "coingecko",
+      "wnative",
+      "biconomy-gas-token",
+      "debridge",
+      "HYPERLEND",
+      "HYPURRFI",
+      "HYPERYIELD"
+    ],
+    "props": { "wnative": true }
+  },
+  "eth": {
+    "chainId": "999",
+    "decimals": 18,
+    "name": "Unit Ethereum",
+    "address": "0xbe6727b535545c67d5caa73dea54865b92cf7907",
+    "symbol": "UETH",
+    "logoURI": "https://assets.coingecko.com/coins/images/55069/thumb/eth.jpg?1743582414",
+    "assetGroup": "Unit Ethereum::UETH",
+    "currencyId": "Unit Ethereum::UETH",
+    "tags": [
+      "coingecko",
+      "biconomy-gas-token",
+      "debridge",
+      "HYPERLEND",
+      "HYPURRFI",
+      "HYPERYIELD"
+    ]
+  },
+  "solvbtc": {
+    "chainId": "999",
+    "decimals": 18,
+    "name": "Solv BTC",
+    "address": "0xae4efbc7736f963982aacb17efa37fcbab924cb3",
+    "symbol": "SolvBTC",
+    "logoURI": "https://assets.coingecko.com/coins/images/36800/thumb/solvBTC.png?1719810684",
+    "assetGroup": "SOLVBTC",
+    "currencyId": "Solv BTC::SolvBTC",
+    "tags": ["coingecko", "biconomy-gas-token", "debridge"]
   }
 }
