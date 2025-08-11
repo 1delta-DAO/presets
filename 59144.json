@@ -1,0 +1,90 @@
+{
+  "dai": {
+    "chainId": "59144",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "address": "0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5",
+    "symbol": "DAI",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png",
+    "assetGroup": "DAI",
+    "currencyId": "Dai Stablecoin::DAI",
+    "tags": ["coingecko", "debridge", "biconomy-gas-token", "ZEROLEND", "GRANARY"]
+  },
+  "stable": {
+    "chainId": "59144",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
+    "symbol": "USDT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "ZEROLEND", "GRANARY", "MOONCAKE"]
+  },
+  "usdt": {
+    "chainId": "59144",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
+    "symbol": "USDT",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "ZEROLEND", "GRANARY", "MOONCAKE"]
+  },
+  "usdc": {
+    "chainId": "59144",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+    "symbol": "USDC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": [
+      "coingecko",
+      "debridge",
+      "biconomy-gas-token",
+      "AAVE_V3",
+      "ZEROLEND",
+      "ZEROLEND_CROAK",
+      "ZEROLEND_FOXY",
+      "GRANARY",
+      "MOONCAKE"
+    ]
+  },
+  "btc": {
+    "chainId": "59144",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0x3aab2285ddcddad8edf438c1bab47e1a9d05a9b4",
+    "symbol": "WBTC",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC",
+    "tags": ["coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "ZEROLEND", "GRANARY"]
+  },
+  "eth": {
+    "chainId": "59144",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": [
+      "coingecko",
+      "debridge",
+      "wnative",
+      "biconomy-gas-token",
+      "AAVE_V3",
+      "ZEROLEND",
+      "ZEROLEND_CROAK",
+      "ZEROLEND_FOXY",
+      "GRANARY",
+      "MOONCAKE"
+    ],
+    "props": { "wnative": true }
+  }
+}

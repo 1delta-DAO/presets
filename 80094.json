@@ -1,0 +1,46 @@
+{
+  "btc": {
+    "chainId": "80094",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "symbol": "WBTC",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c/logo.png",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC",
+    "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+  },
+  "eth": {
+    "chainId": "80094",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590/logo.png",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["coingecko", "biconomy-gas-token", "debridge", "ZEROLEND"]
+  },
+  "stable": {
+    "chainId": "80094",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x779ded0c9e1022225f8e0630b35a9b54be713736",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x779Ded0c9e1022225f8E0630b35a9b54bE713736/logo.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["coingecko", "biconomy-gas-token", "ZEROLEND"]
+  },
+  "usdt": {
+    "chainId": "80094",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x779ded0c9e1022225f8e0630b35a9b54be713736",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x779Ded0c9e1022225f8E0630b35a9b54bE713736/logo.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["coingecko", "biconomy-gas-token", "ZEROLEND"]
+  }
+}

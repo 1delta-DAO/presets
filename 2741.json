@@ -1,0 +1,24 @@
+{
+  "stable": {
+    "chainId": "2741",
+    "decimals": 6,
+    "name": "USDT",
+    "address": "0x0709f39376deee2a2dfc94a58edeb2eb9df012bd",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "assetGroup": "USDT",
+    "currencyId": "USDT::USDT",
+    "tags": ["coingecko"]
+  },
+  "usdt": {
+    "chainId": "2741",
+    "decimals": 6,
+    "name": "USDT",
+    "address": "0x0709f39376deee2a2dfc94a58edeb2eb9df012bd",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "assetGroup": "USDT",
+    "currencyId": "USDT::USDT",
+    "tags": ["coingecko"]
+  }
+}

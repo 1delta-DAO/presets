@@ -1,0 +1,35 @@
+{
+  "eth": {
+    "chainId": "204",
+    "decimals": 18,
+    "name": "Binance Peg Ethereum",
+    "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
+    "symbol": "ETH",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "assetGroup": "ETH",
+    "currencyId": "Binance Peg Ethereum::ETH",
+    "tags": ["coingecko", "VENUS", "SEGMENT"]
+  },
+  "stable": {
+    "chainId": "204",
+    "decimals": 18,
+    "name": "Tether USD",
+    "address": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
+    "symbol": "USDT",
+    "logoURI": "https://assets.coingecko.com/coins/images/32613/thumb/usdt_opbnb_bridged.png?1698734789",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["coingecko", "KINZA", "VENUS", "SEGMENT"]
+  },
+  "usdt": {
+    "chainId": "204",
+    "decimals": 18,
+    "name": "Tether USD",
+    "address": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
+    "symbol": "USDT",
+    "logoURI": "https://assets.coingecko.com/coins/images/32613/thumb/usdt_opbnb_bridged.png?1698734789",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["coingecko", "KINZA", "VENUS", "SEGMENT"]
+  }
+}

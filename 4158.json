@@ -1,0 +1,24 @@
+{
+  "stable": {
+    "chainId": "4158",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x7bbce15166bbc008ec1adf9b3d6bba0602fce7ba",
+    "symbol": "USDC",
+    "logoURI": "https://tokens.debridge.finance/Logo/100000006/0x7bbce15166bbc008ec1adf9b3d6bba0602fce7ba/small/token-logo.png",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["debridge"]
+  },
+  "usdc": {
+    "chainId": "4158",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x7bbce15166bbc008ec1adf9b3d6bba0602fce7ba",
+    "symbol": "USDC",
+    "logoURI": "https://tokens.debridge.finance/Logo/100000006/0x7bbce15166bbc008ec1adf9b3d6bba0602fce7ba/small/token-logo.png",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["debridge"]
+  }
+}

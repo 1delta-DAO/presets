@@ -1,0 +1,13 @@
+{
+  "btc": {
+    "chainId": "42793",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
+    "symbol": "WBTC",
+    "logoURI": "https://tokens.pancakeswap.finance/images/symbol/wbtc.png",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC",
+    "tags": ["coingecko"]
+  }
+}

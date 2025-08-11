@@ -1,0 +1,12 @@
+{
+  "btc": {
+    "chainId": "999",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "symbol": "WBTC",
+    "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x0555e30da8f98308edb960aa94c0db47230d2b9c/d3c52e7c7449afa8bd4fad1c93f50d93.png",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC"
+  }
+}

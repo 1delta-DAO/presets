@@ -1,0 +1,22 @@
+{
+  "dai": {
+    "chainId": "11297108109",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "address": "0x4c1f6fcbd233241bf2f4d02811e3bf8429bc27b8",
+    "symbol": "DAI",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+    "assetGroup": "DAI",
+    "currencyId": "Dai Stablecoin::DAI"
+  },
+  "eth": {
+    "chainId": "11297108109",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x726138359c17f1e56ba8c4f737a7caf724f6010b",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH"
+  }
+}

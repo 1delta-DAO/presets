@@ -1,0 +1,38 @@
+{
+  "stable": {
+    "chainId": "30",
+    "decimals": 6,
+    "name": "USDT",
+    "address": "0xaf368c91793cb22739386dfcbbb2f1a9e4bcbebf",
+    "symbol": "USDT",
+    "assetGroup": "USDT",
+    "currencyId": "USDT::USDT"
+  },
+  "usdt": {
+    "chainId": "30",
+    "decimals": 6,
+    "name": "USDT",
+    "address": "0xaf368c91793cb22739386dfcbbb2f1a9e4bcbebf",
+    "symbol": "USDT",
+    "assetGroup": "USDT",
+    "currencyId": "USDT::USDT"
+  },
+  "btc": {
+    "chainId": "30",
+    "decimals": 8,
+    "name": "syBTC",
+    "address": "0xb52e582263c1d0189b3cc1402c1b7205b7f2e9ba",
+    "symbol": "syBTC",
+    "assetGroup": "BTC",
+    "currencyId": "syBTC::syBTC"
+  },
+  "eth": {
+    "chainId": "30",
+    "decimals": 18,
+    "name": "WETH",
+    "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+    "symbol": "WETH",
+    "assetGroup": "ETH",
+    "currencyId": "WETH::WETH"
+  }
+}

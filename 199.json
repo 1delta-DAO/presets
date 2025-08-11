@@ -1,0 +1,32 @@
+{
+  "eth": {
+    "chainId": "199",
+    "decimals": 18,
+    "name": "Ether",
+    "address": "0x1249c65afb11d179ffb3ce7d4eedd1d9b98ad006",
+    "symbol": "ETH",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x1249C65AfB11D179FFB3CE7D4eEDd1D9b98AD006.jpg",
+    "assetGroup": "ETH",
+    "currencyId": "Ether::ETH"
+  },
+  "btc": {
+    "chainId": "199",
+    "decimals": 18,
+    "name": "Bitcoin BSC",
+    "address": "0x1a7019909b10cdd2d8b0034293ad729f1c1f604e",
+    "symbol": "BTC.b",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x1A7019909B10cdD2D8B0034293AD729f1C1F604e.jpg",
+    "assetGroup": "BTC",
+    "currencyId": "Bitcoin BSC::BTC.b"
+  },
+  "stable": {
+    "chainId": "199",
+    "decimals": 18,
+    "name": "Tether USD BSC",
+    "address": "0x9b5f27f6ea9bbd753ce3793a07cba3c74644330d",
+    "symbol": "USDT.b",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x9B5F27f6ea9bBD753ce3793a07CbA3C74644330d.jpg",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD BSC::USDT.b"
+  }
+}

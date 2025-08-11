@@ -1,0 +1,68 @@
+{
+  "dai": {
+    "chainId": "43114",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+    "symbol": "DAI",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "assetGroup": "DAI",
+    "currencyId": "Dai Stablecoin::DAI",
+    "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "NEREUS", "GRANARY", "BENQI"]
+  },
+  "stable": {
+    "chainId": "43114",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "BENQI", "BENQI_AVALANCE_ECOSYSTEM"]
+  },
+  "usdc": {
+    "chainId": "43114",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "BENQI", "BENQI_AVALANCE_ECOSYSTEM"]
+  },
+  "usdt": {
+    "chainId": "43114",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "BENQI"]
+  },
+  "btc": {
+    "chainId": "43114",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+    "symbol": "WBTC",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC",
+    "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "NEREUS", "GRANARY", "BENQI"]
+  },
+  "eth": {
+    "chainId": "43114",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "NEREUS", "GRANARY", "BENQI"]
+  }
+}

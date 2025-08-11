@@ -1,0 +1,54 @@
+{
+  "dai": {
+    "chainId": "42170",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "symbol": "DAI",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+    "assetGroup": "DAI",
+    "currencyId": "Dai Stablecoin::DAI"
+  },
+  "stable": {
+    "chainId": "42170",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x750ba8b76187092b0d1e87e28daaf484d1b5273b",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC"
+  },
+  "usdc": {
+    "chainId": "42170",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x750ba8b76187092b0d1e87e28daaf484d1b5273b",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC"
+  },
+  "usdt": {
+    "chainId": "42170",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x52484e1ab2e2b22420a25c20fa49e173a26202cd",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x52484E1ab2e2B22420a25c20FA49E173a26202Cd.jpg",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  },
+  "eth": {
+    "chainId": "42170",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x722e8bdd2ce80a4422e880164f2079488e115365",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["wnative"],
+    "props": { "wnative": true }
+  }
+}

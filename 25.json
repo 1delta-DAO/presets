@@ -1,0 +1,68 @@
+{
+  "stable": {
+    "chainId": "25",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x66e428c3f67a68878562e79a0234c1f83c208770",
+    "symbol": "USDT",
+    "logoURI": "https://assets.coingecko.com/coins/images/35025/thumb/USDT.png?1707233700",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["openocean", "coingecko"]
+  },
+  "usdt": {
+    "chainId": "25",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x66e428c3f67a68878562e79a0234c1f83c208770",
+    "symbol": "USDT",
+    "logoURI": "https://assets.coingecko.com/coins/images/35025/thumb/USDT.png?1707233700",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["openocean", "coingecko"]
+  },
+  "usdc": {
+    "chainId": "25",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0xc21223249ca28397b4b6541dffaecc539bff0c59",
+    "symbol": "USDC",
+    "logoURI": "https://assets.coingecko.com/coins/images/35227/thumb/USDC.jpg?1707923223",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["openocean", "coingecko"]
+  },
+  "eth": {
+    "chainId": "25",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0xe44fd7fcb2b1581822d0c862b68222998a0c299a",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["openocean", "coingecko"]
+  },
+  "btc": {
+    "chainId": "25",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0x062e66477faf219f25d27dced647bf57c3107d52",
+    "symbol": "WBTC",
+    "logoURI": "https://assets.coingecko.com/coins/images/39555/thumb/wbtc.png?1722897761",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC",
+    "tags": ["openocean", "coingecko"]
+  },
+  "dai": {
+    "chainId": "25",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "address": "0xf2001b145b43032aaf5ee2884e456ccd805f677d",
+    "symbol": "DAI",
+    "logoURI": "https://assets.coingecko.com/coins/images/39819/thumb/dai.png?1724190900",
+    "assetGroup": "DAI",
+    "currencyId": "Dai Stablecoin::DAI",
+    "tags": ["openocean", "coingecko"]
+  }
+}

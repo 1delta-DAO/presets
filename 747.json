@@ -1,0 +1,13 @@
+{
+  "eth": {
+    "chainId": "747",
+    "decimals": 18,
+    "name": "WETH",
+    "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+    "symbol": "WETH",
+    "logoURI": "https://tokens.debridge.finance/Logo/100000009/0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590/small/token-logo.svg",
+    "assetGroup": "ETH",
+    "currencyId": "WETH::WETH",
+    "tags": ["debridge"]
+  }
+}

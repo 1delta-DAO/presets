@@ -1,0 +1,53 @@
+{
+  "eth": {
+    "chainId": "196",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
+    "symbol": "WETH",
+    "logoURI": "https://assets.coingecko.com/coins/images/38360/thumb/weth.png?1717175703",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["coingecko", "ZEROLEND"]
+  },
+  "dai": {
+    "chainId": "196",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
+    "symbol": "DAI",
+    "assetGroup": "DAI",
+    "currencyId": "Dai Stablecoin::DAI",
+    "tags": ["ZEROLEND"]
+  },
+  "stable": {
+    "chainId": "196",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x74b7f16337b8972027f6196a17a631ac6de26d22",
+    "symbol": "USDC",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["ZEROLEND"]
+  },
+  "usdc": {
+    "chainId": "196",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x74b7f16337b8972027f6196a17a631ac6de26d22",
+    "symbol": "USDC",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["ZEROLEND"]
+  },
+  "btc": {
+    "chainId": "196",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
+    "symbol": "WBTC",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC",
+    "tags": ["ZEROLEND"]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "usdc.e": {
+    "chainId": "146",
+    "decimals": 6,
+    "name": "Bridged USDC",
+    "address": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
+    "symbol": "USDC.e",
+    "logoURI": "https://assets.coingecko.com/coins/images/53064/thumb/logo.png?1735179479",
+    "assetGroup": "USDC",
+    "currencyId": "Bridged USDC::USDC.e",
+    "tags": [
+      "bridged",
+      "coingecko",
+      "biconomy-gas-token",
+      "debridge",
+      "AAVE_V3",
+      "AVALON_USDA",
+      "POLTER",
+      "MAGSIN",
+      "ENCLABS",
+      "ENCLABS_LST"
+    ]
+  },
+  "eth": {
+    "chainId": "146",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x50c42deacd8fc9773493ed674b675be577f2634b",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["coingecko", "biconomy-gas-token", "debridge", "AAVE_V3", "POLTER", "MAGSIN", "ENCLABS"]
+  },
+  "solvbtc": {
+    "chainId": "146",
+    "decimals": 18,
+    "name": "Solv BTC",
+    "address": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+    "symbol": "SolvBTC",
+    "logoURI": "https://assets.coingecko.com/coins/images/36800/thumb/solvBTC.png?1719810684",
+    "assetGroup": "SOLVBTC",
+    "currencyId": "Solv BTC::SolvBTC",
+    "tags": ["coingecko", "biconomy-gas-token", "debridge", "AVALON"]
+  },
+  "stable": {
+    "chainId": "146",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x6047828dc181963ba44974801ff68e538da5eaf9",
+    "symbol": "USDT",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31185/large/anyusdt_32.png?1696530013",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["biconomy-gas-token", "debridge", "POLTER", "coingecko"]
+  },
+  "usdt": {
+    "chainId": "146",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x6047828dc181963ba44974801ff68e538da5eaf9",
+    "symbol": "USDT",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31185/large/anyusdt_32.png?1696530013",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["biconomy-gas-token", "debridge", "POLTER", "coingecko"]
+  },
+  "btc": {
+    "chainId": "146",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "symbol": "WBTC",
+    "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0555e30da8f98308edb960aa94c0db47230d2b9c.png",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC",
+    "tags": ["debridge", "biconomy-gas-token", "coingecko"]
+  }
+}

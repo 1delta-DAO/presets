@@ -1,0 +1,52 @@
+{
+  "stable": {
+    "chainId": "777777",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x59edbb343991d30f77dcdbad94003777e9b09ba9",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdc.svg",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC"
+  },
+  "usdc": {
+    "chainId": "777777",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x59edbb343991d30f77dcdbad94003777e9b09ba9",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdc.svg",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC"
+  },
+  "usdt": {
+    "chainId": "777777",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x0381132632e9e27a8f37f1bc56bd5a62d21a382b",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdt.svg",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  },
+  "eth": {
+    "chainId": "777777",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0xe60256921ae414d7b35d6e881e47931f45e027cf",
+    "symbol": "wETH",
+    "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/weth.svg",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::wETH"
+  },
+  "btc": {
+    "chainId": "777777",
+    "decimals": 6,
+    "name": "Wrapped BTC",
+    "address": "0x44bd533c211c78e01f0f738826e8b18bb9b936f5",
+    "symbol": "WBTC",
+    "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/wbtc.svg",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC"
+  }
+}

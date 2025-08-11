@@ -1,0 +1,35 @@
+{
+  "btc": {
+    "chainId": "1329",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "symbol": "WBTC",
+    "logoURI": "https://assets.coingecko.com/coins/images/54960/thumb/wbtc.jpg?1742887259",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC",
+    "tags": ["biconomy-gas-token", "coingecko"]
+  },
+  "stable": {
+    "chainId": "1329",
+    "decimals": 6,
+    "name": "USDC",
+    "address": "0xe15fc38f6d8c56af07bbcbe3baf5708a2bf42392",
+    "symbol": "USDC",
+    "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694",
+    "assetGroup": "USDC",
+    "currencyId": "USDC::USDC",
+    "tags": ["coingecko"]
+  },
+  "usdc": {
+    "chainId": "1329",
+    "decimals": 6,
+    "name": "USDC",
+    "address": "0xe15fc38f6d8c56af07bbcbe3baf5708a2bf42392",
+    "symbol": "USDC",
+    "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694",
+    "assetGroup": "USDC",
+    "currencyId": "USDC::USDC",
+    "tags": ["coingecko"]
+  }
+}

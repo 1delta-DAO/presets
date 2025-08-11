@@ -1,0 +1,42 @@
+{
+  "stable": {
+    "chainId": "666666666",
+    "decimals": 18,
+    "name": "Tether USD",
+    "address": "0x8aceb2687b59f97da274fe9135c3fada0751ecb2",
+    "symbol": "USDT",
+    "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/666666666/0x8ACeb2687B59F97Da274FE9135C3fAda0751ecb2.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  },
+  "usdt": {
+    "chainId": "666666666",
+    "decimals": 18,
+    "name": "Tether USD",
+    "address": "0x8aceb2687b59f97da274fe9135c3fada0751ecb2",
+    "symbol": "USDT",
+    "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/666666666/0x8ACeb2687B59F97Da274FE9135C3fAda0751ecb2.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  },
+  "usdc": {
+    "chainId": "666666666",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0xf1815bd50389c46847f0bda824ec8da914045d14",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdc.svg",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC"
+  },
+  "eth": {
+    "chainId": "666666666",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/eth.svg",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH"
+  }
+}

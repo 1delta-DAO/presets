@@ -1,0 +1,22 @@
+{
+  "stable": {
+    "chainId": "23294",
+    "decimals": 6,
+    "name": "Tether",
+    "address": "0x9ca066f00e55b90623efe323feb2a649686538b6",
+    "symbol": "USDT",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+    "assetGroup": "USDT",
+    "currencyId": "Tether::USDT"
+  },
+  "usdt": {
+    "chainId": "23294",
+    "decimals": 6,
+    "name": "Tether",
+    "address": "0x9ca066f00e55b90623efe323feb2a649686538b6",
+    "symbol": "USDT",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+    "assetGroup": "USDT",
+    "currencyId": "Tether::USDT"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "stable": {
+    "chainId": "1480",
+    "decimals": 6,
+    "name": "USDT",
+    "address": "0x88853d410299bcbfe5fcc9eef93c03115e908279",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "assetGroup": "USDT",
+    "currencyId": "USDT::USDT"
+  },
+  "usdt": {
+    "chainId": "1480",
+    "decimals": 6,
+    "name": "USDT",
+    "address": "0x88853d410299bcbfe5fcc9eef93c03115e908279",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "assetGroup": "USDT",
+    "currencyId": "USDT::USDT"
+  },
+  "eth": {
+    "chainId": "1480",
+    "decimals": 18,
+    "name": "WETH",
+    "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "assetGroup": "ETH",
+    "currencyId": "WETH::WETH"
+  }
+}

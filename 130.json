@@ -1,0 +1,69 @@
+{
+  "dai": {
+    "chainId": "130",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "address": "0x20cab320a855b39f724131c69424240519573f81",
+    "symbol": "DAI",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "assetGroup": "DAI",
+    "currencyId": "Dai Stablecoin::DAI",
+    "tags": ["biconomy-gas-token"]
+  },
+  "stable": {
+    "chainId": "130",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x078d782b760474a361dda0af3839290b0ef57ad6",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["coingecko", "biconomy-gas-token", "COMPOUND_V3_USDC", "VENUS"]
+  },
+  "usdc": {
+    "chainId": "130",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x078d782b760474a361dda0af3839290b0ef57ad6",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["coingecko", "biconomy-gas-token", "COMPOUND_V3_USDC", "VENUS"]
+  },
+  "usdt": {
+    "chainId": "130",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x588ce4f028d8e7b53b687865d6a67b3a54c75518",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["biconomy-gas-token", "coingecko"]
+  },
+  "btc": {
+    "chainId": "130",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0x927b51f251480a681271180da4de28d44ec4afb8",
+    "symbol": "WBTC",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC",
+    "tags": ["biconomy-gas-token", "coingecko", "COMPOUND_V3_WETH"]
+  },
+  "eth": {
+    "chainId": "130",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x4200000000000000000000000000000000000006",
+    "symbol": "WETH",
+    "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["coingecko", "wnative", "biconomy-gas-token", "COMPOUND_V3_USDC", "VENUS", "COMPOUND_V3_WETH"],
+    "props": { "wnative": true }
+  }
+}

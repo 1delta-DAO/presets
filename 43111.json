@@ -1,0 +1,82 @@
+{
+  "eth": {
+    "chainId": "43111",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x4200000000000000000000000000000000000006",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["wnative", "LAYERBANK_V3", "ZEROLEND", "LENDOS"],
+    "props": { "wnative": true }
+  },
+  "usdc.e": {
+    "chainId": "43111",
+    "decimals": 6,
+    "name": "Bridged USDC (Stargate)",
+    "address": "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
+    "symbol": "USDC.e",
+    "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdce.svg",
+    "assetGroup": "USDC",
+    "currencyId": "Bridged USDC (Stargate)::USDC.e",
+    "tags": ["stargate", "bridged", "LAYERBANK_V3", "ZEROLEND", "LENDOS"],
+    "props": { "permit": { "type": 1, "version": "2" } }
+  },
+  "stable": {
+    "chainId": "43111",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdt.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS"],
+    "props": { "permit": { "type": 1, "version": "1" } }
+  },
+  "usdt": {
+    "chainId": "43111",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdt.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS"],
+    "props": { "permit": { "type": 1, "version": "1" } }
+  },
+  "hemibtc": {
+    "chainId": "43111",
+    "decimals": 8,
+    "name": "Hemi Bitcoin",
+    "address": "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28",
+    "symbol": "hemiBTC",
+    "logoURI": "https://raw.githubusercontent.com/hemilabs/token-list/master/src/logos/hemibtc.svg",
+    "assetGroup": "HEMIBTC",
+    "currencyId": "Hemi Bitcoin::hemiBTC",
+    "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS"]
+  },
+  "btc": {
+    "chainId": "43111",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
+    "symbol": "WBTC",
+    "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC",
+    "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS"]
+  },
+  "dai": {
+    "chainId": "43111",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "address": "0x6c851f501a3f24e29a8e39a29591cddf09369080",
+    "symbol": "DAI",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "assetGroup": "DAI",
+    "currencyId": "Dai Stablecoin::DAI"
+  }
+}

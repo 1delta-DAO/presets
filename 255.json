@@ -1,0 +1,47 @@
+{
+  "stable": {
+    "chainId": "255",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x0cf7c2a584988871b654bd79f96899e4cd6c41c0",
+    "symbol": "USDT",
+    "logoURI": "https://assets.coingecko.com/coins/images/51431/thumb/logo.png?1731196133",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["coingecko"]
+  },
+  "usdt": {
+    "chainId": "255",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x0cf7c2a584988871b654bd79f96899e4cd6c41c0",
+    "symbol": "USDT",
+    "logoURI": "https://assets.coingecko.com/coins/images/51431/thumb/logo.png?1731196133",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["coingecko"]
+  },
+  "eth": {
+    "chainId": "255",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x4200000000000000000000000000000000000001",
+    "symbol": "WETH",
+    "logoURI": "https://assets.coingecko.com/coins/images/51428/thumb/ethereum-eth-logo.png?1731194723",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["coingecko", "wnative"],
+    "props": { "wnative": true }
+  },
+  "usdc": {
+    "chainId": "255",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x0257e4d92c00c9efcca1d641b224d7d09cfa4522",
+    "symbol": "USDC",
+    "logoURI": "https://assets.coingecko.com/coins/images/51432/thumb/warpgreen.png?1731196370",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["coingecko"]
+  }
+}

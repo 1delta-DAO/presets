@@ -1,0 +1,32 @@
+{
+  "eth": {
+    "chainId": "1135",
+    "decimals": 18,
+    "name": "WETH",
+    "address": "0x4200000000000000000000000000000000000006",
+    "symbol": "WETH",
+    "logoURI": "https://static.debank.com/image/lyra_token/logo_url/lyra/48bfb74adddd170e936578aec422836d.png",
+    "assetGroup": "ETH",
+    "currencyId": "WETH::WETH"
+  },
+  "stable": {
+    "chainId": "1135",
+    "decimals": 6,
+    "name": "USDT",
+    "address": "0x05d032ac25d322df992303dca074ee7392c117b9",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "assetGroup": "USDT",
+    "currencyId": "USDT::USDT"
+  },
+  "usdt": {
+    "chainId": "1135",
+    "decimals": 6,
+    "name": "USDT",
+    "address": "0x05d032ac25d322df992303dca074ee7392c117b9",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "assetGroup": "USDT",
+    "currencyId": "USDT::USDT"
+  }
+}

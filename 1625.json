@@ -1,0 +1,53 @@
+{
+  "btc": {
+    "chainId": "1625",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0x729ed87bbe7b7e4b7f09bcb9c668580818d98bb9",
+    "symbol": "WBTC",
+    "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/wbtc.svg",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC"
+  },
+  "dai": {
+    "chainId": "1625",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "address": "0xbfbbc4da47508e85ac18dfc961fa182194e85f9a",
+    "symbol": "DAI",
+    "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/dai.svg",
+    "assetGroup": "DAI",
+    "currencyId": "Dai Stablecoin::DAI"
+  },
+  "eth": {
+    "chainId": "1625",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0xf6f832466cd6c21967e0d954109403f36bc8ceaa",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/weth.svg",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["coingecko"]
+  },
+  "stable": {
+    "chainId": "1625",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x816e810f9f787d669fb71932deabf6c83781cd48",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdt.svg",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  },
+  "usdt": {
+    "chainId": "1625",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x816e810f9f787d669fb71932deabf6c83781cd48",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdt.svg",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  }
+}

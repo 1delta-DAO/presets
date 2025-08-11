@@ -1,0 +1,32 @@
+{
+  "stable": {
+    "chainId": "1996",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x13d675bc5e659b11cfa331594cf35a20815dcf02",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdc.svg",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC"
+  },
+  "usdc": {
+    "chainId": "1996",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x13d675bc5e659b11cfa331594cf35a20815dcf02",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdc.svg",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC"
+  },
+  "eth": {
+    "chainId": "1996",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0xe01e3b20c5819cf919f7f1a2b4c18bbfd222f376",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/weth.svg",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH"
+  }
+}

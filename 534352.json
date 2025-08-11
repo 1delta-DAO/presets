@@ -1,0 +1,80 @@
+{
+  "eth": {
+    "chainId": "534352",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x5300000000000000000000000000000000000004",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["coingecko", "wnative", "biconomy-gas-token", "AAVE_V3", "LORE", "COMPOUND_V3_USDC"],
+    "props": { "wnative": true }
+  },
+  "stable": {
+    "chainId": "534352",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+    "symbol": "USDC",
+    "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["coingecko", "biconomy-gas-token", "AAVE_V3", "AVALON", "LORE", "COMPOUND_V3_USDC"]
+  },
+  "usdc": {
+    "chainId": "534352",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+    "symbol": "USDC",
+    "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["coingecko", "biconomy-gas-token", "AAVE_V3", "AVALON", "LORE", "COMPOUND_V3_USDC"]
+  },
+  "usdt": {
+    "chainId": "534352",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+    "symbol": "USDT",
+    "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["coingecko", "biconomy-gas-token", "LORE"]
+  },
+  "btc": {
+    "chainId": "534352",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
+    "symbol": "WBTC",
+    "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC",
+    "tags": ["coingecko", "biconomy-gas-token"]
+  },
+  "dai": {
+    "chainId": "534352",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "address": "0xca77eb3fefe3725dc33bccb54edefc3d9f764f97",
+    "symbol": "DAI",
+    "logoURI": "https://scrollscan.com/token/images/daistablecoin_32.png",
+    "assetGroup": "DAI",
+    "currencyId": "Dai Stablecoin::DAI",
+    "tags": ["biconomy-gas-token"]
+  },
+  "scr": {
+    "chainId": "534352",
+    "decimals": 18,
+    "name": "Scroll",
+    "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
+    "symbol": "SCR",
+    "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125",
+    "assetGroup": "Scroll::SCR",
+    "currencyId": "Scroll::SCR",
+    "tags": ["coingecko", "biconomy-gas-token", "AAVE_V3", "LORE"]
+  }
+}

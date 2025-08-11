@@ -1,0 +1,52 @@
+{
+  "dai": {
+    "chainId": "2046399126",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "address": "0xd05c4be5f3be302d376518c9492ec0147fa5a718",
+    "symbol": "DAI",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xD05C4be5f3be302d376518c9492EC0147Fa5A718.jpg",
+    "assetGroup": "DAI",
+    "currencyId": "Dai Stablecoin::DAI"
+  },
+  "eth": {
+    "chainId": "2046399126",
+    "decimals": 18,
+    "name": "Ether",
+    "address": "0xd2aaa00700000000000000000000000000000000",
+    "symbol": "ETH",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xD2Aaa00700000000000000000000000000000000.jpg",
+    "assetGroup": "ETH",
+    "currencyId": "Ether::ETH"
+  },
+  "stable": {
+    "chainId": "2046399126",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x5f795bb52dac3085f578f4877d450e2929d2f13d",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0x5F795bb52dAC3085f578f4877D450e2929D2F13d.jpg",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC"
+  },
+  "usdc": {
+    "chainId": "2046399126",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x5f795bb52dac3085f578f4877d450e2929d2f13d",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0x5F795bb52dAC3085f578f4877D450e2929D2F13d.jpg",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC"
+  },
+  "usdt": {
+    "chainId": "2046399126",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x1c0491e3396ad6a35f061c62387a95d7218fc515",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0x1c0491E3396AD6a35f061c62387a95d7218FC515.jpg",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  }
+}

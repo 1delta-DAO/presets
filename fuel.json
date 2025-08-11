@@ -1,0 +1,74 @@
+{
+  "fuel": {
+    "chainId": "fuel",
+    "decimals": 9,
+    "name": "Fuel",
+    "address": "0x1d5d97005e41cae2187a895fd8eab0506111e0e2f3331cd3912c15c24e3c1d82",
+    "symbol": "FUEL",
+    "logoURI": "https://verified-assets.fuel.network/images/fuel.svg",
+    "assetGroup": "FUEL",
+    "currencyId": "Fuel::FUEL"
+  },
+  "eth": {
+    "chainId": "fuel",
+    "decimals": 9,
+    "name": "Ethereum",
+    "address": "0xf8f8b6283d7fa5b672b530cbb84fcccb4ff8dc40f8176ef4544ddb1f1952ad07",
+    "symbol": "ETH",
+    "logoURI": "https://verified-assets.fuel.network/images/eth.svg",
+    "assetGroup": "ETH",
+    "currencyId": "Ethereum::ETH",
+    "tags": ["wnative"],
+    "props": { "wnative": true }
+  },
+  "stable": {
+    "chainId": "fuel",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0xa0265fb5c32f6e8db3197af3c7eb05c48ae373605b8165b6f4a51c5b0ba4812e",
+    "symbol": "USDT",
+    "logoURI": "https://verified-assets.fuel.network/images/usdt.svg",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  },
+  "usdt": {
+    "chainId": "fuel",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0xa0265fb5c32f6e8db3197af3c7eb05c48ae373605b8165b6f4a51c5b0ba4812e",
+    "symbol": "USDT",
+    "logoURI": "https://verified-assets.fuel.network/images/usdt.svg",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  },
+  "usdc": {
+    "chainId": "fuel",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x286c479da40dc953bddc3bb4c453b608bba2e0ac483b077bd475174115395e6b",
+    "symbol": "USDC",
+    "logoURI": "https://verified-assets.fuel.network/images/usdc.svg",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC"
+  },
+  "ezeth": {
+    "chainId": "fuel",
+    "decimals": 9,
+    "name": "Renzo Restaked ETH",
+    "address": "0x91b3559edb2619cde8ffb2aa7b3c3be97efd794ea46700db7092abeee62281b0",
+    "symbol": "ezETH",
+    "logoURI": "https://verified-assets.fuel.network/images/ezeth.webp",
+    "assetGroup": "EZETH",
+    "currencyId": "Renzo Restaked ETH::ezETH"
+  },
+  "pzeth": {
+    "chainId": "fuel",
+    "decimals": 9,
+    "name": "Renzo Restaked LST",
+    "address": "0x1493d4ec82124de8f9b625682de69dcccda79e882b89a55a8c737b12de67bd68",
+    "symbol": "pzETH",
+    "logoURI": "https://verified-assets.fuel.network/images/pzETH.webp",
+    "assetGroup": "PZETH",
+    "currencyId": "Renzo Restaked LST::pzETH"
+  }
+}

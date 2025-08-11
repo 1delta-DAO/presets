@@ -1,0 +1,22 @@
+{
+  "stable": {
+    "chainId": "8082",
+    "decimals": 18,
+    "name": "Tether USD",
+    "address": "0x43891084581fd07ee1189f3a2f04e51c26a95b77",
+    "symbol": "USDT",
+    "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/8082/0x43891084581fD07Ee1189f3a2f04e51c26a95B77.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  },
+  "usdt": {
+    "chainId": "8082",
+    "decimals": 18,
+    "name": "Tether USD",
+    "address": "0x43891084581fd07ee1189f3a2f04e51c26a95b77",
+    "symbol": "USDT",
+    "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/8082/0x43891084581fD07Ee1189f3a2f04e51c26a95B77.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  }
+}

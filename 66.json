@@ -1,0 +1,35 @@
+{
+  "stable": {
+    "chainId": "66",
+    "decimals": 18,
+    "name": "USD Coin",
+    "address": "0xc946daf81b08146b1c7a8da2a851ddf2b3eaaf85",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["openocean"]
+  },
+  "usdc": {
+    "chainId": "66",
+    "decimals": 18,
+    "name": "USD Coin",
+    "address": "0xc946daf81b08146b1c7a8da2a851ddf2b3eaaf85",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["openocean"]
+  },
+  "usdt": {
+    "chainId": "66",
+    "decimals": 18,
+    "name": "Tether USD",
+    "address": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["openocean"]
+  }
+}

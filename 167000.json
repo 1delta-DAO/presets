@@ -1,0 +1,71 @@
+{
+  "eth": {
+    "chainId": "167000",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0xa51894664a773981c6c112c43ce576f315d5b1b6",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["wnative", "biconomy-gas-token", "HANA", "TAKOTAKO", "TAKOTAKO_ETH", "MERIDIAN"],
+    "props": { "wnative": true }
+  },
+  "stable": {
+    "chainId": "167000",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x07d83526730c7438048d55a4fc0b850e2aab6f0b",
+    "symbol": "USDC",
+    "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["biconomy-gas-token", "HANA", "TAKOTAKO", "MERIDIAN", "AVALON", "AVALON_USDA"],
+    "props": { "permit": { "type": 1, "version": "2" } }
+  },
+  "usdc": {
+    "chainId": "167000",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x07d83526730c7438048d55a4fc0b850e2aab6f0b",
+    "symbol": "USDC",
+    "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["biconomy-gas-token", "HANA", "TAKOTAKO", "MERIDIAN", "AVALON", "AVALON_USDA"],
+    "props": { "permit": { "type": 1, "version": "2" } }
+  },
+  "usdt": {
+    "chainId": "167000",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x2def195713cf4a606b49d07e520e22c17899a736",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdt.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["biconomy-gas-token", "TAKOTAKO", "AVALON", "AVALON_USDA"]
+  },
+  "btc": {
+    "chainId": "167000",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704",
+    "symbol": "WBTC",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC"
+  },
+  "taiko": {
+    "chainId": "167000",
+    "decimals": 18,
+    "name": "Taiko Token",
+    "address": "0xa9d23408b9ba935c230493c40c73824df71a0975",
+    "symbol": "TAIKO",
+    "logoURI": "https://assets.coingecko.com/coins/images/38058/standard/taiko.jpeg",
+    "assetGroup": "TAIKO",
+    "currencyId": "Taiko Token::TAIKO",
+    "tags": ["biconomy-gas-token", "HANA", "TAKOTAKO", "MERIDIAN", "AVALON"],
+    "props": { "permit": { "type": 1, "version": "1" } }
+  }
+}

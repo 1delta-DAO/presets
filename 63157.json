@@ -1,0 +1,22 @@
+{
+  "stable": {
+    "chainId": "63157",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0xcfa0bc1ed6135166e9163211b4ca566a0ee81e35",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdc.svg",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC"
+  },
+  "usdc": {
+    "chainId": "63157",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0xcfa0bc1ed6135166e9163211b4ca566a0ee81e35",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdc.svg",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC"
+  }
+}

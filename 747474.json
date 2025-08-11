@@ -1,0 +1,61 @@
+{
+  "vbeth": {
+    "chainId": "747474",
+    "decimals": 18,
+    "name": "Vault Bridge ETH",
+    "address": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
+    "symbol": "vbETH",
+    "logoURI": "https://cdn.morpho.org/assets/logos/vbeth.svg",
+    "assetGroup": "ETH",
+    "currencyId": "Vault Bridge ETH::vbETH",
+    "tags": ["eth", "coingecko", "vault bridge", "bridged", "wnative"],
+    "props": { "permit": { "type": 1, "version": "1" }, "wnative": true }
+  },
+  "vbusdc": {
+    "chainId": "747474",
+    "decimals": 6,
+    "name": "Vault Bridge USDC",
+    "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+    "symbol": "vbUSDC",
+    "logoURI": "https://cdn.morpho.org/assets/logos/vbusdc.svg",
+    "assetGroup": "USDC",
+    "currencyId": "Vault Bridge USDC::vbUSDC",
+    "tags": ["stablecoin", "usd-pegged", "coingecko", "vault bridge", "bridged"],
+    "props": { "permit": { "type": 1, "version": "1" } }
+  },
+  "vbusdt": {
+    "chainId": "747474",
+    "decimals": 6,
+    "name": "Vault Bridge USDT",
+    "address": "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
+    "symbol": "vbUSDT",
+    "logoURI": "https://cdn.morpho.org/assets/logos/vbusdt.svg",
+    "assetGroup": "USDT",
+    "currencyId": "Vault Bridge USDT::vbUSDT",
+    "tags": ["stablecoin", "usd-pegged", "coingecko", "vault bridge", "bridged"],
+    "props": { "permit": { "type": 1, "version": "1" } }
+  },
+  "vbwbtc": {
+    "chainId": "747474",
+    "decimals": 8,
+    "name": "Vault Bridge WBTC",
+    "address": "0x0913da6da4b42f538b445599b46bb4622342cf52",
+    "symbol": "vbWBTC",
+    "logoURI": "https://cdn.morpho.org/assets/logos/vbwbtc.svg",
+    "assetGroup": "WBTC",
+    "currencyId": "Vault Bridge WBTC::vbWBTC",
+    "tags": ["btc", "coingecko", "vault bridge", "bridged"],
+    "props": { "permit": { "type": 1, "version": "1" } }
+  },
+  "eth": {
+    "chainId": "747474",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x4200000000000000000000000000000000000006",
+    "symbol": "WETH",
+    "logoURI": "https://static.debank.com/image/katana_token/logo_url/0x4200000000000000000000000000000000000006/61844453e63cf81301f845d7864236f6.png",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["wnative"]
+  }
+}

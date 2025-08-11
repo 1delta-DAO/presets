@@ -1,0 +1,54 @@
+{
+  "btc": {
+    "chainId": "223",
+    "decimals": 18,
+    "name": "Wrapped BTC",
+    "address": "0x4200000000000000000000000000000000000006",
+    "symbol": "WBTC",
+    "logoURI": "https://tokenlist.glowswap.io/images/glow/0x4200000000000000000000000000000000000006.png",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC",
+    "tags": ["wnative"],
+    "props": { "wnative": true }
+  },
+  "stable": {
+    "chainId": "223",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0xe544e8a38add9b1abf21922090445ba93f74b9e5",
+    "symbol": "USDC",
+    "logoURI": "https://tokenlist.glowswap.io/images/glow/0xE544e8a38aDD9B1ABF21922090445Ba93f74B9E5.png",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC"
+  },
+  "usdc": {
+    "chainId": "223",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0xe544e8a38add9b1abf21922090445ba93f74b9e5",
+    "symbol": "USDC",
+    "logoURI": "https://tokenlist.glowswap.io/images/glow/0xE544e8a38aDD9B1ABF21922090445Ba93f74B9E5.png",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC"
+  },
+  "usdt": {
+    "chainId": "223",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x681202351a488040fa4fdcc24188afb582c9dd62",
+    "symbol": "USDT",
+    "logoURI": "https://tokenlist.glowswap.io/images/glow/0x681202351a488040Fa4FdCc24188AfB582c9DD62.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  },
+  "eth": {
+    "chainId": "223",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0xd48d3a551757ac47655fce25bde1b0b6b1cb2a5a",
+    "symbol": "WETH",
+    "logoURI": "https://tokenlist.glowswap.io/images/glow/0xD48d3A551757ac47655fCe25BDE1B0B6b1Cb2a5A.png",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH"
+  }
+}

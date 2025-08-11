@@ -1,0 +1,25 @@
+{
+  "stable": {
+    "chainId": "4200",
+    "decimals": 6,
+    "name": "Merlin USDT",
+    "address": "0x967aec3276b63c5e2262da9641db9dbebb07dc0d",
+    "symbol": "M-USDT",
+    "logoURI": "https://assets.coingecko.com/coins/images/37382/thumb/usdt_%281%29.png?1714215585",
+    "assetGroup": "USDT",
+    "currencyId": "Merlin USDT::M-USDT",
+    "tags": ["coingecko", "AVALON"]
+  },
+  "btc": {
+    "chainId": "4200",
+    "decimals": 18,
+    "name": "Wrapped BTC",
+    "address": "0xf6d226f9dc15d9bb51182815b320d3fbe324e1ba",
+    "symbol": "WBTC",
+    "logoURI": "https://assets.coingecko.com/coins/images/35437/thumb/wbtc.png?1708590308",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC",
+    "tags": ["coingecko", "wnative", "AVALON_UNIBTC", "AVALON"],
+    "props": { "wnative": true }
+  }
+}

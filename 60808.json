@@ -1,0 +1,58 @@
+{
+  "eth": {
+    "chainId": "60808",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x4200000000000000000000000000000000000006",
+    "symbol": "WETH",
+    "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x4200000000000000000000000000000000000006/small/token-logo.png",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["wnative", "debridge"],
+    "props": { "wnative": true }
+  },
+  "stable": {
+    "chainId": "60808",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x05d032ac25d322df992303dca074ee7392c117b9",
+    "symbol": "USDT",
+    "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x05d032ac25d322df992303dca074ee7392c117b9/small/token-logo.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["debridge", "SEGMENT"]
+  },
+  "usdt": {
+    "chainId": "60808",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x05d032ac25d322df992303dca074ee7392c117b9",
+    "symbol": "USDT",
+    "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x05d032ac25d322df992303dca074ee7392c117b9/small/token-logo.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["debridge", "SEGMENT"]
+  },
+  "btc": {
+    "chainId": "60808",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
+    "symbol": "WBTC",
+    "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3/small/token-logo.png",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC",
+    "tags": ["debridge", "AVALON_UNIBTC", "AVALON_BOB", "SEGMENT"]
+  },
+  "dai": {
+    "chainId": "60808",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "address": "0x6c851f501a3f24e29a8e39a29591cddf09369080",
+    "symbol": "DAI",
+    "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x6c851f501a3f24e29a8e39a29591cddf09369080/small/token-logo.png",
+    "assetGroup": "DAI",
+    "currencyId": "Dai Stablecoin::DAI",
+    "tags": ["debridge", "SEGMENT"]
+  }
+}

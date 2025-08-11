@@ -1,0 +1,42 @@
+{
+  "stable": {
+    "chainId": "56288",
+    "decimals": 18,
+    "name": "Tether USD",
+    "address": "0x1e633dcd0d3d349126983d58988051f7c62c543d",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  },
+  "usdt": {
+    "chainId": "56288",
+    "decimals": 18,
+    "name": "Tether USD",
+    "address": "0x1e633dcd0d3d349126983d58988051f7c62c543d",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  },
+  "usdc": {
+    "chainId": "56288",
+    "decimals": 18,
+    "name": "USD Coin",
+    "address": "0x9f98f9f312d23d078061962837042b8918e6aff2",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC"
+  },
+  "eth": {
+    "chainId": "56288",
+    "decimals": 18,
+    "name": "Ethereum",
+    "address": "0x38ca7a190f57d38f4dc44413508e1078cd9e0045",
+    "symbol": "ETH",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+    "assetGroup": "ETH",
+    "currencyId": "Ethereum::ETH"
+  }
+}

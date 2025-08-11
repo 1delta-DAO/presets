@@ -1,0 +1,54 @@
+{
+  "eth": {
+    "chainId": "2818",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x5300000000000000000000000000000000000011",
+    "symbol": "WETH",
+    "logoURI": "https://assets.bulbaswap.io/icons/2818/address/0x5300000000000000000000000000000000000011.svg",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["wnative"],
+    "props": { "wnative": true }
+  },
+  "stable": {
+    "chainId": "2818",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0xc7d67a9cbb121b3b0b9c053dd9f469523243379a",
+    "symbol": "USDT",
+    "logoURI": "https://assets.bulbaswap.io/icons/2818/address/0xc7d67a9cbb121b3b0b9c053dd9f469523243379a.svg",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  },
+  "usdt": {
+    "chainId": "2818",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0xc7d67a9cbb121b3b0b9c053dd9f469523243379a",
+    "symbol": "USDT",
+    "logoURI": "https://assets.bulbaswap.io/icons/2818/address/0xc7d67a9cbb121b3b0b9c053dd9f469523243379a.svg",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  },
+  "btc": {
+    "chainId": "2818",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0x803dce4d3f4ae2e17af6c51343040dee320c149d",
+    "symbol": "WBTC",
+    "logoURI": "https://assets.bulbaswap.io/icons/2818/address/0x803dce4d3f4ae2e17af6c51343040dee320c149d.svg",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC"
+  },
+  "usdc": {
+    "chainId": "2818",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0xe34c91815d7fc18a9e2148bcd4241d0a5848b693",
+    "symbol": "USDC",
+    "logoURI": "https://assets.bulbaswap.io/icons/2818/address/0xe34c91815d7fc18a9e2148bcd4241d0a5848b693.svg",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC"
+  }
+}

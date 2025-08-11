@@ -1,0 +1,43 @@
+{
+  "stable": {
+    "chainId": "252",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x4d15ea9c2573addaed814e48c148b5262694646a",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4d15ea9c2573addaed814e48c148b5262694646a.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  },
+  "usdt": {
+    "chainId": "252",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x4d15ea9c2573addaed814e48c148b5262694646a",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4d15ea9c2573addaed814e48c148b5262694646a.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  },
+  "usdc": {
+    "chainId": "252",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543.png",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["coingecko"]
+  },
+  "dai": {
+    "chainId": "252",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "address": "0xf6a011fac307f55cd4ba8e43b8b93f39808ddaa9",
+    "symbol": "DAI",
+    "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf6a011fac307f55cd4ba8e43b8b93f39808ddaa9.png",
+    "assetGroup": "DAI",
+    "currencyId": "Dai Stablecoin::DAI"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "stable": {
+    "chainId": "169",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0xb73603c5d87fa094b7314c74ace2e64d165016fb",
+    "symbol": "USDC",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["ZEROLEND"]
+  },
+  "usdc": {
+    "chainId": "169",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0xb73603c5d87fa094b7314c74ace2e64d165016fb",
+    "symbol": "USDC",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["ZEROLEND"]
+  },
+  "usdt": {
+    "chainId": "169",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f",
+    "symbol": "USDT",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["ZEROLEND"]
+  },
+  "btc": {
+    "chainId": "169",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0x305e88d809c9dc03179554bfbf85ac05ce8f18d6",
+    "symbol": "WBTC",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC",
+    "tags": ["ZEROLEND"]
+  },
+  "eth": {
+    "chainId": "169",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x0dc808adce2099a9f62aa87d9670745aba741746",
+    "symbol": "WETH",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["ZEROLEND", "wnative"],
+    "props": { "wnative": true }
+  }
+}

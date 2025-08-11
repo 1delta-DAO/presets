@@ -1,0 +1,35 @@
+{
+  "btc": {
+    "chainId": "388",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0xd65e5dba71231d35a5802ba83dc6cb6746c9758d",
+    "symbol": "WBTC",
+    "logoURI": "https://assets.coingecko.com/coins/images/39778/thumb/wbtc.png?1724059306",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC",
+    "tags": ["coingecko", "debridge"]
+  },
+  "stable": {
+    "chainId": "388",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0xaa5b845f8c9c047779bedf64829601d8b264076c",
+    "symbol": "USDC",
+    "logoURI": "https://assets.coingecko.com/coins/images/39777/thumb/usdc.png?1724059220",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["coingecko", "debridge"]
+  },
+  "usdc": {
+    "chainId": "388",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0xaa5b845f8c9c047779bedf64829601d8b264076c",
+    "symbol": "USDC",
+    "logoURI": "https://assets.coingecko.com/coins/images/39777/thumb/usdc.png?1724059220",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["coingecko", "debridge"]
+  }
+}

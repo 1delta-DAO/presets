@@ -1,0 +1,21 @@
+{
+  "dai": {
+    "chainId": "122",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "address": "0x94ba7a27c7a95863d1bdc7645ac2951e0cca06ba",
+    "symbol": "DAI",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fuse/0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA.jpg",
+    "assetGroup": "DAI",
+    "currencyId": "Dai Stablecoin::DAI"
+  },
+  "eth": {
+    "chainId": "122",
+    "decimals": 18,
+    "name": "Wrapped Ether on Fuse",
+    "address": "0xd8bf72f3e163b9cf0c73dfdcc316417a5ac20670",
+    "symbol": "WETH",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether on Fuse::WETH"
+  }
+}

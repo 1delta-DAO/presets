@@ -1,0 +1,12 @@
+{
+  "eth": {
+    "chainId": "21000000",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x485bbc4f98c071c9bd74ac255262e61f866f071a",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/weth.svg",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "eth": {
+    "chainId": "1101",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["openocean", "coingecko", "wnative"],
+    "props": { "wnative": true }
+  },
+  "stable": {
+    "chainId": "1101",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
+    "symbol": "USDT",
+    "logoURI": "https://assets.coingecko.com/coins/images/35143/thumb/usdt_logo.png?1707467554",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["openocean", "coingecko"]
+  },
+  "usdt": {
+    "chainId": "1101",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
+    "symbol": "USDT",
+    "logoURI": "https://assets.coingecko.com/coins/images/35143/thumb/usdt_logo.png?1707467554",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["openocean", "coingecko"]
+  },
+  "usdc": {
+    "chainId": "1101",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
+    "symbol": "USDC",
+    "logoURI": "https://assets.coingecko.com/coins/images/35263/thumb/USDC_Icon.png?1708009475",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["openocean", "coingecko"]
+  },
+  "btc": {
+    "chainId": "1101",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
+    "symbol": "WBTC",
+    "logoURI": "https://assets.coingecko.com/coins/images/39593/thumb/wbtc.png?1723016350",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC",
+    "tags": ["openocean", "coingecko"]
+  },
+  "dai": {
+    "chainId": "1101",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "address": "0x744c5860ba161b5316f7e80d9ec415e2727e5bd5",
+    "symbol": "DAI",
+    "assetGroup": "DAI",
+    "currencyId": "Dai Stablecoin::DAI"
+  }
+}

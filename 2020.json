@@ -1,0 +1,32 @@
+{
+  "eth": {
+    "chainId": "2020",
+    "decimals": 18,
+    "name": "Ronin Wrapped Ether",
+    "address": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+    "symbol": "WETH",
+    "assetGroup": "ETH",
+    "currencyId": "Ronin Wrapped Ether::WETH",
+    "tags": ["COMPOUND_V3_WETH", "COMPOUND_V3_WRON"]
+  },
+  "stable": {
+    "chainId": "2020",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x0b7007c13325c48911f73a2dad5fa5dcbf808adc",
+    "symbol": "USDC",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["COMPOUND_V3_WETH", "COMPOUND_V3_WRON"]
+  },
+  "usdc": {
+    "chainId": "2020",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x0b7007c13325c48911f73a2dad5fa5dcbf808adc",
+    "symbol": "USDC",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["COMPOUND_V3_WETH", "COMPOUND_V3_WRON"]
+  }
+}

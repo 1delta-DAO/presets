@@ -1,0 +1,22 @@
+{
+  "stable": {
+    "chainId": "2525",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x97423a68bae94b5de52d767a17abcc54c157c0e5",
+    "symbol": "USDT",
+    "logoURI": "https://www.ape.bond/tokenImages/USDT.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  },
+  "usdt": {
+    "chainId": "2525",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x97423a68bae94b5de52d767a17abcc54c157c0e5",
+    "symbol": "USDT",
+    "logoURI": "https://www.ape.bond/tokenImages/USDT.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  }
+}

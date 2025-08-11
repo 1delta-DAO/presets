@@ -1,0 +1,78 @@
+{
+  "stable": {
+    "chainId": "34443",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0xd988097fb8612cc24eec14542bc03424c656005f",
+    "symbol": "USDC",
+    "logoURI": "https://assets.coingecko.com/coins/images/35809/thumb/usdc_%281%29.png?1709867043",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["coingecko", "MOLEND", "IRONCLAD"]
+  },
+  "usdc": {
+    "chainId": "34443",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0xd988097fb8612cc24eec14542bc03424c656005f",
+    "symbol": "USDC",
+    "logoURI": "https://assets.coingecko.com/coins/images/35809/thumb/usdc_%281%29.png?1709867043",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["coingecko", "MOLEND", "IRONCLAD"]
+  },
+  "usdt": {
+    "chainId": "34443",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0xf0f161fda2712db8b566946122a5af183995e2ed",
+    "symbol": "USDT",
+    "logoURI": "https://assets.coingecko.com/coins/images/35808/thumb/usdt_%281%29.png?1709866389",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["coingecko", "MOLEND", "IRONCLAD"]
+  },
+  "eth": {
+    "chainId": "34443",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x4200000000000000000000000000000000000006",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["coingecko", "wnative", "MOLEND", "IRONCLAD"],
+    "props": { "wnative": true }
+  },
+  "unibtc": {
+    "chainId": "34443",
+    "decimals": 8,
+    "name": "uniBTC",
+    "address": "0x6b2a01a5f79deb4c2f3c0eda7b01df456fbd726a",
+    "symbol": "uniBTC",
+    "logoURI": "https://raw.githubusercontent.com/Bedrock-Technology/bedrock-static/39b68b34ecef136a7f57720ac6ac8773606539da/logo/unibtc.svg",
+    "assetGroup": "UNIBTC",
+    "currencyId": "uniBTC::uniBTC",
+    "tags": ["coingecko", "AVALON_UNIBTC", "IRONCLAD"]
+  },
+  "solvbtc": {
+    "chainId": "34443",
+    "decimals": 18,
+    "name": "Solv BTC",
+    "address": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+    "symbol": "SolvBTC",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/SolvBTC.webp",
+    "assetGroup": "SOLVBTC",
+    "currencyId": "Solv BTC::SolvBTC",
+    "tags": ["coingecko", "AVALON_SOLVBTC"]
+  },
+  "dai": {
+    "chainId": "34443",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
+    "symbol": "DAI",
+    "assetGroup": "DAI",
+    "currencyId": "Dai Stablecoin::DAI"
+  }
+}

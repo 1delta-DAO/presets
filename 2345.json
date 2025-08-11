@@ -1,0 +1,12 @@
+{
+  "eth": {
+    "chainId": "2345",
+    "decimals": 18,
+    "name": "WETH",
+    "address": "0x3a1293bdb83bbbdd5ebf4fac96605ad2021bbc0f",
+    "symbol": "WETH",
+    "assetGroup": "ETH",
+    "currencyId": "WETH::WETH",
+    "tags": ["AVALON"]
+  }
+}

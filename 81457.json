@@ -1,0 +1,36 @@
+{
+  "stable": {
+    "chainId": "81457",
+    "decimals": 18,
+    "name": "USDB",
+    "address": "0x4300000000000000000000000000000000000003",
+    "symbol": "USDB",
+    "logoURI": "https://assets.coingecko.com/coins/images/35595/thumb/65c67f0ebf2f6a1bd0feb13c_usdb-icon-yellow.png?1709255427",
+    "assetGroup": "USDB::USDB",
+    "currencyId": "USDB::USDB",
+    "tags": ["coingecko", "biconomy-gas-token", "ZEROLEND", "SEISMIC", "PAC"]
+  },
+  "eth": {
+    "chainId": "81457",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x4300000000000000000000000000000000000004",
+    "symbol": "WETH",
+    "logoURI": "https://assets.coingecko.com/coins/images/39727/thumb/weth.png?1723758119",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["coingecko", "wnative", "biconomy-gas-token", "ZEROLEND", "SEISMIC", "PAC"],
+    "props": { "wnative": true }
+  },
+  "btc": {
+    "chainId": "81457",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0xf7bc58b8d8f97adc129cfc4c9f45ce3c0e1d2692",
+    "symbol": "WBTC",
+    "logoURI": "https://static.debank.com/image/blast_token/logo_url/0xf7bc58b8d8f97adc129cfc4c9f45ce3c0e1d2692/e58455cbeb72be75c798588eb6f2cda3.png",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC",
+    "tags": ["biconomy-gas-token", "PAC"]
+  }
+}

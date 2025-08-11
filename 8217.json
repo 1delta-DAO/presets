@@ -1,0 +1,68 @@
+{
+  "eth": {
+    "chainId": "8217",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x98a8345bb9d3dda9d808ca1c9142a28f6b0430e1",
+    "symbol": "WETH",
+    "logoURI": "https://ss.new.klayswap.com/data/img/token/0x98a8345bb9d3dda9d808ca1c9142a28f6b0430e1/icon.svg?v=1709794027729",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": ["RHOMBUS", "KLAP", "AVALON"]
+  },
+  "stable": {
+    "chainId": "8217",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2",
+    "symbol": "USDT",
+    "logoURI": "https://ss.new.klayswap.com/data/img/token/0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2/icon.svg?v=1709703032569",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["RHOMBUS", "KLAP", "AVALON", "AVALON_USDA"]
+  },
+  "usdt": {
+    "chainId": "8217",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2",
+    "symbol": "USDT",
+    "logoURI": "https://ss.new.klayswap.com/data/img/token/0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2/icon.svg?v=1709703032569",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["RHOMBUS", "KLAP", "AVALON", "AVALON_USDA"]
+  },
+  "usdc": {
+    "chainId": "8217",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x608792deb376cce1c9fa4d0e6b7b44f507cffa6a",
+    "symbol": "USDC",
+    "logoURI": "https://ss.new.klayswap.com/data/img/token/0x608792deb376cce1c9fa4d0e6b7b44f507cffa6a/icon.svg?v=1709794012177",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["RHOMBUS", "KLAP", "AVALON", "AVALON_USDA"]
+  },
+  "dai": {
+    "chainId": "8217",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "address": "0xcb2c7998696ef7a582dfd0aafadcd008d03e791a",
+    "symbol": "DAI",
+    "logoURI": "https://api.swapscanner.io/v0/tokens/0xcb2c7998696ef7a582dfd0aafadcd008d03e791a/icon",
+    "assetGroup": "DAI",
+    "currencyId": "Dai Stablecoin::DAI",
+    "tags": ["KLAP"]
+  },
+  "btc": {
+    "chainId": "8217",
+    "decimals": 8,
+    "name": "Wrapped BTC (Synapse)",
+    "address": "0xdcbacf3f7a069922e677912998c8d57423c37dfa",
+    "symbol": "WBTC",
+    "logoURI": "https://api.swapscanner.io/v0/tokens/0xdcbacf3f7a069922e677912998c8d57423c37dfa/icon",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC (Synapse)::WBTC",
+    "tags": ["KLAP"]
+  }
+}

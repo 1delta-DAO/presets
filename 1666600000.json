@@ -1,0 +1,24 @@
+{
+  "stable": {
+    "chainId": "1666600000",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x985458e523db3d53125813ed68c274899e9dfab4",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["AAVE_V3"]
+  },
+  "usdc": {
+    "chainId": "1666600000",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x985458e523db3d53125813ed68c274899e9dfab4",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["AAVE_V3"]
+  }
+}

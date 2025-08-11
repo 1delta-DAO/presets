@@ -1,0 +1,52 @@
+{
+  "stable": {
+    "chainId": "2000",
+    "decimals": 18,
+    "name": "Tether USD",
+    "address": "0xd2683b22287e63d22928cbe4514003a92507f474",
+    "symbol": "USDT",
+    "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/2000/0xD2683b22287E63D22928CBe4514003a92507f474.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  },
+  "usdt": {
+    "chainId": "2000",
+    "decimals": 18,
+    "name": "Tether USD",
+    "address": "0xd2683b22287e63d22928cbe4514003a92507f474",
+    "symbol": "USDT",
+    "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/2000/0xD2683b22287E63D22928CBe4514003a92507f474.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  },
+  "eth": {
+    "chainId": "2000",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0xdc2393dc10734bf153153038943a5deb42b209cd",
+    "symbol": "WETH",
+    "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/2000/0xDC2393dc10734BF153153038943a5deB42b209cd.png",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH"
+  },
+  "dai": {
+    "chainId": "2000",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "address": "0xc57f0eb99363e747d637b17bbdb4e1ab85e60631",
+    "symbol": "DAI",
+    "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/2000/0xc57F0eb99363e747D637B17BBdB4e1AB85e60631.png",
+    "assetGroup": "DAI",
+    "currencyId": "Dai Stablecoin::DAI"
+  },
+  "usdc": {
+    "chainId": "2000",
+    "decimals": 18,
+    "name": "USD Coin",
+    "address": "0xce6c9c70f91c6797873efc80505f972290a88f5d",
+    "symbol": "USDC",
+    "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/2000/0xce6c9c70f91c6797873EFC80505f972290A88f5D.png",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC"
+  }
+}

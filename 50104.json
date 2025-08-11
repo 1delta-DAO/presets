@@ -1,0 +1,24 @@
+{
+  "stable": {
+    "chainId": "50104",
+    "decimals": 6,
+    "name": "USDC",
+    "address": "0x9aa0f72392b5784ad86c6f3e899bcc053d00db4f",
+    "symbol": "USDC",
+    "logoURI": "https://tokens.debridge.finance/Logo/100000025/0x9aa0f72392b5784ad86c6f3e899bcc053d00db4f/small/token-logo.png",
+    "assetGroup": "USDC",
+    "currencyId": "USDC::USDC",
+    "tags": ["debridge"]
+  },
+  "usdc": {
+    "chainId": "50104",
+    "decimals": 6,
+    "name": "USDC",
+    "address": "0x9aa0f72392b5784ad86c6f3e899bcc053d00db4f",
+    "symbol": "USDC",
+    "logoURI": "https://tokens.debridge.finance/Logo/100000025/0x9aa0f72392b5784ad86c6f3e899bcc053d00db4f/small/token-logo.png",
+    "assetGroup": "USDC",
+    "currencyId": "USDC::USDC",
+    "tags": ["debridge"]
+  }
+}

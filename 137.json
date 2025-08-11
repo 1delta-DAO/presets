@@ -1,0 +1,87 @@
+{
+  "dai": {
+    "chainId": "137",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+    "symbol": "DAI",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "assetGroup": "DAI",
+    "currencyId": "Dai Stablecoin::DAI",
+    "tags": ["openocean", "debridge", "biconomy-gas-token", "AAVE_V3", "AAVE_V2"]
+  },
+  "stable": {
+    "chainId": "137",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["openocean", "debridge", "biconomy-gas-token", "AAVE_V3", "AAVE_V2", "YLDR", "COMPOUND_V3_USDT"]
+  },
+  "usdt": {
+    "chainId": "137",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT",
+    "tags": ["openocean", "debridge", "biconomy-gas-token", "AAVE_V3", "AAVE_V2", "YLDR", "COMPOUND_V3_USDT"]
+  },
+  "btc": {
+    "chainId": "137",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+    "symbol": "WBTC",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC",
+    "tags": [
+      "openocean",
+      "debridge",
+      "biconomy-gas-token",
+      "AAVE_V3",
+      "AAVE_V2",
+      "YLDR",
+      "COMPOUND_V3_USDT",
+      "COMPOUND_V3_USDCE"
+    ]
+  },
+  "eth": {
+    "chainId": "137",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH",
+    "tags": [
+      "openocean",
+      "debridge",
+      "biconomy-gas-token",
+      "AAVE_V3",
+      "AAVE_V2",
+      "YLDR",
+      "COMPOUND_V3_USDT",
+      "COMPOUND_V3_USDCE"
+    ]
+  },
+  "usdc": {
+    "chainId": "137",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["debridge", "biconomy-gas-token", "AAVE_V3", "YLDR"],
+    "props": { "permit": { "type": 1, "version": "2" } }
+  }
+}

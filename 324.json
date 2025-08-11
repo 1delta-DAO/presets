@@ -1,0 +1,46 @@
+{
+  "dai": {
+    "chainId": "324",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "address": "0x4b9eb6c0b6ea15176bbf62841c6b2a8a398cb656",
+    "symbol": "DAI",
+    "logoURI": "https://assets.coingecko.com/coins/images/39805/thumb/dai.png?1724126260",
+    "assetGroup": "DAI",
+    "currencyId": "Dai Stablecoin::DAI",
+    "tags": ["coingecko", "ZEROLEND"]
+  },
+  "btc": {
+    "chainId": "324",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0xbbeb516fb02a01611cbbe0453fe3c580d7281011",
+    "symbol": "WBTC",
+    "logoURI": "https://assets.coingecko.com/coins/images/39592/thumb/wbtc.png?1723016108",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC",
+    "tags": ["coingecko", "ZEROLEND", "VENUS"]
+  },
+  "stable": {
+    "chainId": "324",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4",
+    "symbol": "USDC",
+    "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["coingecko", "AAVE_V3", "ZEROLEND", "VENUS"]
+  },
+  "usdc": {
+    "chainId": "324",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4",
+    "symbol": "USDC",
+    "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC",
+    "tags": ["coingecko", "AAVE_V3", "ZEROLEND", "VENUS"]
+  }
+}

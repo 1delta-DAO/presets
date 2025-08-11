@@ -1,0 +1,32 @@
+{
+  "stable": {
+    "chainId": "11235",
+    "decimals": 6,
+    "name": "Tether USD from KAVA",
+    "address": "0x5ad523d94efb56c400941eb6f34393b84c75ba39",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x5aD523d94Efb56C400941eb6F34393b84c75ba39.jpg",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD from KAVA::USDT"
+  },
+  "usdt": {
+    "chainId": "11235",
+    "decimals": 6,
+    "name": "Tether USD from KAVA",
+    "address": "0x5ad523d94efb56c400941eb6f34393b84c75ba39",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x5aD523d94Efb56C400941eb6F34393b84c75ba39.jpg",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD from KAVA::USDT"
+  },
+  "usdc": {
+    "chainId": "11235",
+    "decimals": 6,
+    "name": "Circle USD from Noble",
+    "address": "0x0ce35b0d42608ca54eb7bcc8044f7087c18e7717",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x0CE35b0D42608Ca54Eb7bcc8044f7087C18E7717.jpg",
+    "assetGroup": "Circle USD from Noble::USDC",
+    "currencyId": "Circle USD from Noble::USDC"
+  }
+}
