@@ -11,6 +11,24 @@
     "tags": ["eth", "coingecko", "vault bridge", "bridged", "wnative"],
     "props": { "permit": { "type": 1, "version": "1" }, "wnative": true }
   },
+  "stable": {
+    "chainId": "747474",
+    "decimals": 6,
+    "name": "Vault Bridge USDC",
+    "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+    "symbol": "vbUSDC",
+    "logoURI": "https://cdn.morpho.org/assets/logos/vbusdc.svg",
+    "assetGroup": "USDC",
+    "currencyId": "Vault Bridge USDC::vbUSDC",
+    "tags": [
+      "stablecoin",
+      "usd-pegged",
+      "coingecko",
+      "vault bridge",
+      "bridged"
+    ],
+    "props": { "permit": { "type": 1, "version": "1" } }
+  },
   "vbusdc": {
     "chainId": "747474",
     "decimals": 6,
