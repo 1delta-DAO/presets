@@ -26,14 +26,14 @@
   "stable": {
     "chainId": "43111",
     "decimals": 6,
-    "name": "Tether USD",
-    "address": "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e",
-    "symbol": "USDT",
-    "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdt.png",
-    "assetGroup": "USDT",
-    "currencyId": "Tether USD::USDT",
-    "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS"],
-    "props": { "permit": { "type": 1, "version": "1" } }
+    "name": "Bridged USDC (Stargate)",
+    "address": "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
+    "symbol": "USDC.e",
+    "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdce.svg",
+    "assetGroup": "USDC",
+    "currencyId": "Bridged USDC (Stargate)::USDC.e",
+    "tags": ["stargate", "bridged", "LAYERBANK_V3", "ZEROLEND", "LENDOS"],
+    "props": { "permit": { "type": 1, "version": "2" } }
   },
   "usdt": {
     "chainId": "43111",
@@ -69,15 +69,15 @@
     "currencyId": "Wrapped BTC::WBTC",
     "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS"]
   },
-  "dai": {
+  "hemi": {
     "chainId": "43111",
     "decimals": 18,
-    "name": "Dai Stablecoin",
-    "address": "0x6c851f501a3f24e29a8e39a29591cddf09369080",
-    "symbol": "DAI",
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
-    "assetGroup": "DAI",
-    "currencyId": "Dai Stablecoin::DAI"
+    "name": "Hemi",
+    "address": "0x99e3de3817f6081b2568208337ef83295b7f591d",
+    "symbol": "HEMI",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/HEMI.webp",
+    "assetGroup": "Hemi::HEMI",
+    "currencyId": "Hemi::HEMI"
   },
   "native": {
     "chainId": "43111",
