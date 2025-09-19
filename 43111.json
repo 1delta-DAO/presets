@@ -58,6 +58,16 @@
     "currencyId": "Hemi Bitcoin::hemiBTC",
     "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS"]
   },
+  "cbbtc": {
+    "chainId": "43111",
+    "decimals": 8,
+    "name": "Coinbase Wrapped BTC",
+    "address": "0x1596be338b999e2376675c908168a7548c8b0525",
+    "symbol": "cbBTC",
+    "logoURI": "https://assets.coingecko.com/coins/images/40143/standard/cbbtc.webp",
+    "assetGroup": "CBBTC",
+    "currencyId": "Coinbase Wrapped BTC::cbBTC"
+  },
   "btc": {
     "chainId": "43111",
     "decimals": 8,
