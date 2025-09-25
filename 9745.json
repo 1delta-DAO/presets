@@ -1,0 +1,74 @@
+{
+  "wxpl": {
+    "chainId": "9745",
+    "decimals": 18,
+    "name": "Wrapped XPL",
+    "address": "0x6100e367285b01f48d07953803a2d8dca5d19873",
+    "symbol": "WXPL",
+    "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6100e367285b01f48d07953803a2d8dca5d19873.png",
+    "assetGroup": "XPL",
+    "currencyId": "Wrapped XPL::WXPL",
+    "tags": [
+      "biconomy-gas-token"
+    ],
+    "props": {
+      "wnative": true
+    }
+  },
+  "stable": {
+    "chainId": "9745",
+    "decimals": 6,
+    "name": "USDT0",
+    "address": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "symbol": "USDT0",
+    "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.png",
+    "assetGroup": "USDT0::USDT0",
+    "currencyId": "USDT0::USDT0",
+    "tags": [
+      "biconomy-gas-token"
+    ]
+  },
+  "usdt": {
+    "chainId": "9745",
+    "decimals": 6,
+    "name": "USDT0",
+    "address": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "symbol": "USDT0",
+    "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.png",
+    "assetGroup": "USDT0::USDT0",
+    "currencyId": "USDT0::USDT0",
+    "tags": [
+      "biconomy-gas-token"
+    ]
+  },
+  "eth": {
+    "chainId": "9745",
+    "decimals": 18,
+    "name": "WETH",
+    "address": "0x9895d81bb462a195b4922ed7de0e3acd007c32cb",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9895d81bb462a195b4922ed7de0e3acd007c32cb.png",
+    "assetGroup": "ETH",
+    "currencyId": "WETH::WETH",
+    "tags": [
+      "biconomy-gas-token"
+    ]
+  },
+  "native": {
+    "chainId": "9745",
+    "address": "0x0000000000000000000000000000000000000000",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xpl.webp",
+    "currencyId": "Plasma::XPL",
+    "tags": [
+      "native"
+    ],
+    "props": {
+      "isNative": true,
+      "wrapped": "0x6100e367285b01f48d07953803a2d8dca5d19873"
+    },
+    "name": "Plasma",
+    "symbol": "XPL",
+    "assetGroup": "XPL",
+    "decimals": 18
+  }
+}
