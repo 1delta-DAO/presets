@@ -1,33 +1,58 @@
 {
-  "eth": {
-    "chainId": "1284",
-    "decimals": 18,
-    "name": "WETH",
-    "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
-    "symbol": "WETH",
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-    "assetGroup": "ETH",
-    "currencyId": "WETH::WETH"
-  },
   "stable": {
     "chainId": "1284",
     "decimals": 6,
-    "name": "USDT",
-    "address": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
-    "symbol": "USDT",
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "name": "xcUSDT",
+    "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
+    "symbol": "XCUSDT",
+    "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990",
     "assetGroup": "USDT",
-    "currencyId": "USDT::USDT"
+    "currencyId": "xcUSDT::XCUSDT",
+    "tags": ["coingecko", "polkadot", "bridged"]
+  },
+  "dot": {
+    "chainId": "1284",
+    "decimals": 10,
+    "name": "xcDOT",
+    "address": "0xffffffff1fcacbd218edc0eba20fc2308c778080",
+    "symbol": "DOT",
+    "logoURI": "https://assets.coingecko.com/coins/images/26044/thumb/polkadot-asset_32.png?1696525125",
+    "assetGroup": "xcDOT::DOT",
+    "currencyId": "xcDOT::DOT",
+    "tags": ["coingecko"]
+  },
+  "btc": {
+    "chainId": "1284",
+    "decimals": 8,
+    "name": "interBTC",
+    "address": "0xffffffff5ac1f9a51a93f5c527385edf7fe98a52",
+    "symbol": "IBTC",
+    "logoURI": "https://assets.coingecko.com/coins/images/26217/thumb/interBTC_for_Exchanges.png?1696525302",
+    "assetGroup": "interBTC::IBTC",
+    "currencyId": "interBTC::IBTC",
+    "tags": ["coingecko"]
   },
   "usdt": {
     "chainId": "1284",
     "decimals": 6,
-    "name": "USDT",
-    "address": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
-    "symbol": "USDT",
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "name": "xcUSDT",
+    "address": "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
+    "symbol": "XCUSDT",
+    "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990",
     "assetGroup": "USDT",
-    "currencyId": "USDT::USDT"
+    "currencyId": "xcUSDT::XCUSDT",
+    "tags": ["coingecko", "polkadot", "bridged"]
+  },
+  "usdc": {
+    "chainId": "1284",
+    "decimals": 6,
+    "name": "xcUSDC",
+    "address": "0xffffffff7d2b0b761af01ca8e25242976ac0ad7d",
+    "symbol": "XCUSDC",
+    "logoURI": "https://assets.coingecko.com/coins/images/68438/thumb/usdc.jpg?1755740037",
+    "assetGroup": "USDC",
+    "currencyId": "xcUSDC::XCUSDC",
+    "tags": ["coingecko", "polkadot", "bridged"]
   },
   "native": {
     "chainId": "1284",
@@ -40,5 +65,17 @@
     "currencyId": "Glimmer::GLMR",
     "tags": ["native", "coingecko", "wrapped:0xacc15dc74880c9944775448304b263d191c6077f"],
     "props": { "isNative": true, "wrapped": "0xacc15dc74880c9944775448304b263d191c6077f" }
+  },
+  "wnative": {
+    "chainId": "1284",
+    "decimals": 18,
+    "name": "Wrapped Glimmer",
+    "address": "0xacc15dc74880c9944775448304b263d191c6077f",
+    "symbol": "WGLMR",
+    "logoURI": "https://assets.coingecko.com/coins/images/23688/thumb/Moonbeam_WGLMR_ICON.png?1716655228",
+    "assetGroup": "GLMR",
+    "currencyId": "Wrapped Glimmer::WGLMR",
+    "tags": ["coingecko", "wnative"],
+    "props": { "wnative": true }
   }
 }
