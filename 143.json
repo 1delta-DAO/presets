@@ -1,0 +1,66 @@
+{
+  "usdc": {
+    "chainId": "143",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x754704bc059f8c67012fed69bc8a327a5aafb603",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC"
+  },
+  "eth": {
+    "chainId": "143",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "address": "0xee8c0e9f1bffb4eb878d8f15f368a02a35481242",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "assetGroup": "ETH",
+    "currencyId": "Wrapped Ether::WETH"
+  },
+  "btc": {
+    "chainId": "143",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "symbol": "WBTC",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+    "assetGroup": "WBTC",
+    "currencyId": "Wrapped BTC::WBTC"
+  },
+  "stable": {
+    "chainId": "143",
+    "decimals": 6,
+    "name": "USD Coin",
+    "address": "0x754704bc059f8c67012fed69bc8a327a5aafb603",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "assetGroup": "USDC",
+    "currencyId": "USD Coin::USDC"
+  },
+  "usdt": {
+    "chainId": "143",
+    "decimals": 6,
+    "name": "Tether USD",
+    "address": "0xe7cd86e13ac4309349f30b3435a9d337750fc82d",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "assetGroup": "USDT",
+    "currencyId": "Tether USD::USDT"
+  },
+  "native": {
+    "chainId": "143",
+    "decimals": 18,
+    "name": "MON Token",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "MON",
+    "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/mon.webp",
+    "assetGroup": "MON",
+    "currencyId": "MON Token::MON",
+    "props": {
+      "isNative": true,
+      "wrapped": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a"
+    }
+  }
+}
